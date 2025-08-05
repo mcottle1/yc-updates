@@ -1,0 +1,27 @@
+attrs @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_93pjmt0git/croot/attrs_1734533120523/work
+beautifulsoup4 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c10hfgix4s/croot/beautifulsoup4-split_1752598990081/work
+brotlicffi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b5py2dr5ag/croot/brotlicffi_1736182482518/work
+certifi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_46hdwpeuom/croot/certifi_1752653715345/work/certifi
+cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e4xd9yd9i2/croot/cffi_1736182819442/work
+charset-normalizer==3.4.2
+h11 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_557zp2ij9k/croot/h11_1748442489221/work
+idna @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/idna_1728585920859/work
+outcome @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1eatmqakx6/croot/outcome_1741014049255/work
+packaging==25.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PySocks @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pysocks_1728586068722/work
+python-dotenv==1.1.1
+requests==2.32.4
+selenium @ file:///Users/builder/cbouss/buildout/croot/selenium_1742581318009/work
+setuptools==78.1.1
+sniffio @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/sniffio_1728586434087/work
+sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
+soupsieve @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/soupsieve_1728586120162/work
+trio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_1c1kzh82nv/croot/trio_1747182480962/work
+trio-websocket @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b3qpkzng3m/croot/trio-websocket_1741025730813/work
+typing_extensions @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_0b3jpv_f79/croot/typing_extensions_1734714864260/work
+urllib3 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_95v32ztwo_/croot/urllib3_1750775480393/work
+webdriver-manager==4.0.2
+websocket-client @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/websocket-client_1728587380721/work
+wheel==0.45.1
+wsproto @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/wsproto_1728595775653/work
