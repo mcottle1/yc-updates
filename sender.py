@@ -2,18 +2,21 @@ import os
 import smtplib
 from email.message import EmailMessage
 
-try:
-    SMTP_SERVER = os.environ.get('SMTP_SERVER', 'smtp.gmail.com')
-    SMTP_PORT = int(os.environ.get('SMTP_PORT', 587))
-except ValueError:
-    raise ValueError("SMTP_PORT must be an integer")
+SMTP_SERVER = "smtp.gmail.com"
+SMTP_PORT = 587
 
-EMAIL_ADDRESS = 'ycombinatorupdates@gmail.com'
-EMAIL_PASSWORD = 'emvj zttd sqpr emmm'
+EMAIL_ADDRESS = os.environ.get('EMAIL_ADDRESS')
+EMAIL_PASSWORD = os.environ.get('EMAIL_PASSWORD')
 
-RECIPIENTS = [
-    "mhill@pelionvp.com"
-]
+if not EMAIL_ADDRESS or not EMAIL_PASSWORD:
+    raise ValueError("EMAIL_ADDRESS and EMAIL_PASSWORD environment variables must be set")
+
+recipients_string = os.environ.get('EMAIL_RECIPIENTS')
+if not recipients_string:
+    raise ValueError("EMAIL_RECIPIENTS environment variable must be set")
+
+RECIPIENTS = [email.strip() for email in recipients_string.split(',')]
+print(f"Will send emails to: {RECIPIENTS}")
 
 def send_email(subject: str, body: str, html_body: str):
     msg = EmailMessage()
