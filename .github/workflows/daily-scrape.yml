@@ -34,7 +34,7 @@ jobs:
     - name: Run scraper
       run: python scraper.py
       env:
-        EMAIL_USER: ${{ secrets.EMAIL_USER }}
+        EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         EMAIL_RECIPIENTS: ${{ secrets.EMAIL_RECIPIENTS }}
         
