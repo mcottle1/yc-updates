@@ -2,7 +2,7 @@ name: Daily Web Scraper
 
 on:
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 13 * * 1-5'
   workflow_dispatch: 
 
 permissions:
@@ -49,11 +49,3 @@ jobs:
         git diff --staged --quiet || git commit -m "Update scraped data - $(date)"
         git push
         
-    - name: Upload logs
-      if: always()
-      uses: actions/upload-artifact@v4
-      with:
-        name: scraper-logs
-        path: |
-          *.log
-          logs/
