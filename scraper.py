@@ -238,9 +238,9 @@ def format_founder_info_html(founder_data):
             name_html += f" <em>({founder['title']})</em>"
         html_parts.append(name_html)
         
-        if founder.get('description'):
-            desc = founder['description']
-            html_parts.append(f"<br><small>{desc}</small>")
+        # if founder.get('description'):
+        #     desc = founder['description']
+        #     html_parts.append(f"<br><small>{desc}</small>")
         
         if founder['social_links']:
             links_html = []
