@@ -17,6 +17,8 @@ if not recipients_string:
 
 cc_recipients_string = os.environ.get('EMAIL_CC_RECIPIENTS', '')
 
+print(cc_recipients_string)
+
 RECIPIENTS = [email.strip() for email in recipients_string.split(',')]
 CC_RECIPIENTS = [email.strip() for email in cc_recipients_string.split(',')] if cc_recipients_string else []
 
