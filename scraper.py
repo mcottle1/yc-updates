@@ -33,7 +33,7 @@ def fetch_html(url):
         (By.CLASS_NAME, "_facet_i9oky_85")
     ))
 
-    time.sleep(3)
+    time.sleep(10)
 
     batch_facet = None
     for f in facets:

@@ -15,7 +15,9 @@ recipients_string = os.environ.get('EMAIL_RECIPIENTS')
 if not recipients_string:
     raise ValueError("EMAIL_RECIPIENTS environment variable must be set")
 
-cc_recipients_string = os.environ.get('EMAIL_CC_RECIPIENTS', '')
+cc_recipients_string = os.environ.get('EMAIL_CC_RECIPIENTS')
+if not cc_recipients_string:
+    raise ValueError("EMAIL_CC_RECIPIENTS environment variable must be set")
 
 print(cc_recipients_string)
 
