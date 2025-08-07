@@ -188,7 +188,7 @@ def get_founder_info(company_url):
                 except NoSuchElementException:
                     print(f"No social links found for card {i+1}")
                 
-                if founder_info['name']: 
+                if founder_info['name'] and founder_info['title']: 
                     founders_data.append(founder_info)
                     print(f"Extracted: {founder_info['name']} - {founder_info['title']}")
                 
@@ -239,7 +239,7 @@ def format_founder_info_html(founder_data):
         html_parts.append(name_html)
         
         if founder.get('description'):
-            desc = founder['description'][:150] + "..." if len(founder['description']) > 150 else founder['description']
+            desc = founder['description']
             html_parts.append(f"<br><small>{desc}</small>")
         
         if founder['social_links']:
@@ -320,13 +320,12 @@ def create_detailed_html_summary(new_rows, founders_data):
     </style>
     """)
     
-    html_parts.append(f"<h2>Found {len(new_rows)} new companies:</h2>")
+    html_parts.append(f"<h3>Found {len(new_rows)} new companies:</h3>")
     
     for row in new_rows:
         company_name = row['company']
         html_parts.append('<div class="company-card">')
-        html_parts.append(f'<h3 class="company-title"><a href="{row["url"]}" target="_blank">{company_name}</a></h3>')
-        html_parts.append(f'<p class="company-tagline">{row["tagline"]}</p>')
+        html_parts.append(f'<h3 class="company-title"><a href="{row["url"]}" target="_blank">{company_name}</a> - <span class="tagline-inline">{row["tagline"]}</span></h3>')
         
         company_founders = None
         for founder_entry in founders_data:
@@ -335,7 +334,6 @@ def create_detailed_html_summary(new_rows, founders_data):
                 break
         
         html_parts.append('<div class="founders-section">')
-        html_parts.append('<h4>Founders:</h4>')
         founder_html = format_founder_info_html(company_founders)
         html_parts.append(founder_html)
         html_parts.append('</div>')
