@@ -13,6 +13,7 @@ Veritus Agent,AI agents for loan servicing and collections,https://www.ycombinat
 Outrove,AI-native Salesforce,https://www.ycombinator.com/companies/outrove
 NOSO LABS,Build AI agents for field technicians to diagnose and sell 10x better,https://www.ycombinator.com/companies/noso-labs
 Vulcan Technologies,AI regulatory drafting and compliance,https://www.ycombinator.com/companies/vulcan-technologies
+Spotlight Realty,AI powered brokerage reducing residential rental commissions in NYC…,https://www.ycombinator.com/companies/spotlight-realty
 Interfere,The self-healing layer of the internet,https://www.ycombinator.com/companies/interfere
 TectoAI,Governance for AI Employees,https://www.ycombinator.com/companies/tectoai
 Anytrace,The AI support engineering agent,https://www.ycombinator.com/companies/anytrace
@@ -28,7 +29,7 @@ Okibi,"Build agents using natural language, it's Lovable for agents",https://www
 Daymi,Text your personal AI clone,https://www.ycombinator.com/companies/daymi
 dScribe AI,Track bulk inventory with autonomous drones and 3D vision,https://www.ycombinator.com/companies/dscribe-ai
 Kernel,High performance browsers-as-a-service for web agents & automations,https://www.ycombinator.com/companies/kernel
-Reacher,We help brands scale creator partnerships 10x faster,https://www.ycombinator.com/companies/reacher
+Reacher,AI platform to connect brands with creators,https://www.ycombinator.com/companies/reacher
 Certus AI,Replacing the restaurant phone line with Voice AI,https://www.ycombinator.com/companies/certus-ai
 Hera,AI Motion Designer,https://www.ycombinator.com/companies/hera-video
 Nottelabs,Building infrastructure for reliable web agents,https://www.ycombinator.com/companies/nottelabs
@@ -46,8 +47,9 @@ Avelis Health,We audit medical claims for self-insured employers and health plan
 Humoniq,Voice AI agents for customer support in travel,https://www.ycombinator.com/companies/humoniq
 Idler,"AI employees that handle the work, so people can do the magic.",https://www.ycombinator.com/companies/idler
 Floot,The easiest and most powerful way to build apps with AI.,https://www.ycombinator.com/companies/floot
-Observee,Access 1000+ MCP integrations with a single API,https://www.ycombinator.com/companies/observee
+Observee,Integrations Infrastructure for Vertical AI companies,https://www.ycombinator.com/companies/observee
 Socratix AI,AI coworkers for fraud and risk teams.,https://www.ycombinator.com/companies/socratix-ai
+Minimal AI,AI Customer Support Teams for E-commerce,https://www.ycombinator.com/companies/minimal-ai
 Risely AI,AI agents that automate administrative work across college campuses.,https://www.ycombinator.com/companies/risely-ai
 Omnara,The command center for your AI agents,https://www.ycombinator.com/companies/omnara
 Knowlify,Convert textual content into explainer videos in < 15s,https://www.ycombinator.com/companies/knowlify
@@ -70,11 +72,11 @@ Nozomio,"Engineers for AI era, starting with contextual layer for coding agents"
 VibeFlow,Prompt to full stack app with visual workflows,https://www.ycombinator.com/companies/vibeflow
 Comena,AI agents for distributors and manufacturers to automate order entry.,https://www.ycombinator.com/companies/comena
 Normal,"Modern compliance for drones, robots, IoT, and beyond",https://www.ycombinator.com/companies/normal
-GhostEye,The AI-powered human pentesting platform,https://www.ycombinator.com/companies/ghosteye
+GhostEye,AI that red teams the human mind,https://www.ycombinator.com/companies/ghosteye
 Channel3,Database of every product on the internet,https://www.ycombinator.com/companies/channel3
 Epicenter,"A database for your mind, built on plain text.",https://www.ycombinator.com/companies/epicenter
 Candytrail,AI Agents that run your sales funnel and train your reps,https://www.ycombinator.com/companies/candytrail
-Embedder,Cursor for Embedded,https://www.ycombinator.com/companies/embedder
+Embedder,Claude Code for Firmware,https://www.ycombinator.com/companies/embedder
 Flai,We Bring Customers to Your Dealership,https://www.ycombinator.com/companies/flai
 b-12,Developing chemical super intelligence - one agent at a time.…,https://www.ycombinator.com/companies/b-12
 Trace,Workflow engine routing repetitive tasks to AI agents,https://www.ycombinator.com/companies/trace-so
@@ -85,6 +87,7 @@ Louiza Labs,Simulated human biology and synthetic medical datasets.,https://www.
 Parachute,"Evaluate, Deploy, and Monitor Clinical AI",https://www.ycombinator.com/companies/parachute
 Riverbank,AI Agents for Penetration Testing,https://www.ycombinator.com/companies/riverbank
 BootLoop,"Firmware in minutes, not months - rigorously tested on real hardware",https://www.ycombinator.com/companies/bootloop
+Nexa Labs,Implantable microchips for cattle monitoring,https://www.ycombinator.com/companies/nexa-labs
 AgentHub,The simulation and evaluation engine for AI agents,https://www.ycombinator.com/companies/agenthub-2
 Slashy,ChatGPT with Hands,https://www.ycombinator.com/companies/slashy
 Wedge,The trust layer for health AI implementation.,https://www.ycombinator.com/companies/wedge
@@ -111,8 +114,10 @@ Orange Slice,AI agents that find you customers who already want to buy,https://w
 Monarcha,The AI GIS Platform,https://www.ycombinator.com/companies/monarcha
 Lotas,Cursor for RStudio,https://www.ycombinator.com/companies/lotas
 Design Arena,World's largest crowdsourced benchmark for AI-generated design,https://www.ycombinator.com/companies/design-arena
+datafruit,AI DevOps Engineer,https://www.ycombinator.com/companies/datafruit
 Sentinel,AI on-call engineer,https://www.ycombinator.com/companies/sentinel
 ContextFort,Automating drawing reviews for construction contractors,https://www.ycombinator.com/companies/contextfort
+ZeroEval,A platform to measure the quality of AI agents using human feedback.,https://www.ycombinator.com/companies/zeroeval
 Verne Robotics,AI software for autonomous robot arms,https://www.ycombinator.com/companies/verne-robotics
 Pharmie AI,Your AI pharmacy technician,https://www.ycombinator.com/companies/pharmie-ai
 Liva AI,Real voice and video data for AI,https://www.ycombinator.com/companies/liva-ai
@@ -128,7 +133,7 @@ truthsystems,Building the unified governance layer for regulated industries,http
 AgentMail,Email Infrastructure for AI Agents,https://www.ycombinator.com/companies/agentmail
 TraceRoot.AI,AI agents automatically fix your production bugs,https://www.ycombinator.com/companies/traceroot-ai
 Halluminate,Data and environments to train computer use AI,https://www.ycombinator.com/companies/halluminate
-MangoDesk,We improve AI models by sourcing domain experts for data and evals.,https://www.ycombinator.com/companies/mangodesk
+MangoDesk,Cursor for evals and human data,https://www.ycombinator.com/companies/mangodesk
 Acrely,ai-native admin for HVAC,https://www.ycombinator.com/companies/acrely
 Parametric,Robotics models to automate industries where errors can kill,https://www.ycombinator.com/companies/parametric
 Closera,AI employees for commercial real estate,https://www.ycombinator.com/companies/closera
