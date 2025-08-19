@@ -1,6 +1,6 @@
 company,tagline,url
 Nox Metals,"The modern factory for fast, low-cost metals.",https://www.ycombinator.com/companies/nox-metals
-Blue,The first voice assistant that can control every app on your phone.,https://www.ycombinator.com/companies/blue
+Blue,The only voice assistant that can control every app on your phone.,https://www.ycombinator.com/companies/blue
 Paloma,We help customer facing teams maximize revenue and simplify billing,https://www.ycombinator.com/companies/paloma
 Uplift AI,Foundational Voice AI for underserved languages,https://www.ycombinator.com/companies/uplift-ai
 RealRoots,RealRoots is a mobile app that guarantees women lifelong friendships.,https://www.ycombinator.com/companies/realroots
@@ -25,6 +25,7 @@ Fleetline,Optimizing fleet planning with data driven algorithms,https://www.ycom
 Clodo,The AI Assistant for Real Estate Agents,https://www.ycombinator.com/companies/clodo
 stagewise,The frontend coding agent for production codebases,https://www.ycombinator.com/companies/stagewise
 Flywheel AI,Waymo for excavators,https://www.ycombinator.com/companies/flywheel-ai
+Vibe Code Go,Code from your phone,https://www.ycombinator.com/companies/vibe-code-go
 Juxta,Building a GPS alternative 100x more powerful with no hardware needed.,https://www.ycombinator.com/companies/juxta
 Okibi,"Build agents using natural language, it's Lovable for agents",https://www.ycombinator.com/companies/okibi
 Daymi,Text your personal AI clone,https://www.ycombinator.com/companies/daymi
@@ -61,7 +62,7 @@ April,Voice AI Executive Assistant,https://www.ycombinator.com/companies/april
 Iron Grid,AI Insurance for hardware.,https://www.ycombinator.com/companies/iron-grid
 Finto,AI accounting for enterprise finance teams,https://www.ycombinator.com/companies/finto-de
 Motives,Qualitative consumer research run by AI,https://www.ycombinator.com/companies/motives
-Hyprnote,Privacy-first AI notetaker for enterprises - think open-source Granola,https://www.ycombinator.com/companies/hyprnote
+Hyprnote,Open-source AI notetaker for enterprises,https://www.ycombinator.com/companies/hyprnote
 mcp-use,Open-source dev tools and infrastructure for MCP.,https://www.ycombinator.com/companies/mcp-use
 Novaflow,The AI data analyst for biology labs,https://www.ycombinator.com/companies/novaflow
 Perseus Defense,Guided micro-missiles for Counter-UAS.,https://www.ycombinator.com/companies/perseus-defense
@@ -89,7 +90,7 @@ IronLedger.ai,AI agents for property accounting,https://www.ycombinator.com/comp
 Doe,Autonomous AI workforce for PE roll-ups,https://www.ycombinator.com/companies/doe
 Louiza Labs,Simulated human biology and synthetic medical datasets.,https://www.ycombinator.com/companies/louiza-labs
 Parachute,"Evaluate, Deploy, and Monitor Clinical AI",https://www.ycombinator.com/companies/parachute
-Riverbank,AI Agents for Penetration Testing,https://www.ycombinator.com/companies/riverbank
+Riverbank,AI Agents for Offensive Cyber Security,https://www.ycombinator.com/companies/riverbank
 Kalinda,Deep research for class action lawsuits,https://www.ycombinator.com/companies/kalinda
 BootLoop,"Firmware in minutes, not months - rigorously tested on real hardware",https://www.ycombinator.com/companies/bootloop
 Nexa Labs,Implantable microchips for cattle monitoring,https://www.ycombinator.com/companies/nexa-labs
@@ -97,17 +98,18 @@ AgentHub,The simulation and evaluation engine for AI agents,https://www.ycombina
 cocreate,AI-native video editing software that automates video post-production,https://www.ycombinator.com/companies/cocreate
 Slashy,ChatGPT with Hands,https://www.ycombinator.com/companies/slashy
 Wedge,The trust layer for health AI implementation.,https://www.ycombinator.com/companies/wedge
-Lemma,Specialized AI agents for professional services,https://www.ycombinator.com/companies/lemma
+Lemma,AI-powered consumer brands insights platform,https://www.ycombinator.com/companies/lemma
 CareSwift,AI operating system for ambulance agencies,https://www.ycombinator.com/companies/careswift
 Pangolin,Open-source identity-aware gateway to applications on private networks,https://www.ycombinator.com/companies/pangolin
 Kestroll,AI media asset management,https://www.ycombinator.com/companies/kestroll
+Tesora,AI procurement analysts for mission critical industries,https://www.ycombinator.com/companies/tesora
 DeepAware AI,Make AI data centers more efficient.,https://www.ycombinator.com/companies/deepaware-ai
 Stockline,AI-native ERP for food wholesalers,https://www.ycombinator.com/companies/stockline
 Sidekick,Automation for the rest of us,https://www.ycombinator.com/companies/heysidekick
 Keystone,AI agents that test your application.,https://www.ycombinator.com/companies/keystone
 DeepGrove,Frontier Intelligence. On Any Device.,https://www.ycombinator.com/companies/deepgrove
 Frizzle,AI grading for math teachers,https://www.ycombinator.com/companies/frizzle
-Skope,A modern billing system for AI-native companies.,https://www.ycombinator.com/companies/skope
+Skope,The billing system for AI products,https://www.ycombinator.com/companies/skope
 OnDeck AI,"Analyze any footage, without training a model",https://www.ycombinator.com/companies/ondeck-ai
 Alter,Secure access control and authorization platform for agent workflows,https://www.ycombinator.com/companies/alter
 Imprezia,The World's First AI-Native Ad Network.,https://www.ycombinator.com/companies/imprezia
@@ -119,8 +121,9 @@ Herdora,Cursor for CUDA,https://www.ycombinator.com/companies/herdora
 Nuntius,The Alignment Company.,https://www.ycombinator.com/companies/nuntius
 Orange Slice,AI agents that find you customers who already want to buy,https://www.ycombinator.com/companies/orange-slice
 Monarcha,The AI GIS Platform,https://www.ycombinator.com/companies/monarcha
-Lotas,Cursor for RStudio,https://www.ycombinator.com/companies/lotas
+Lotas,"Cursor for Data Science — secure, AI-native IDE for data scientists",https://www.ycombinator.com/companies/lotas
 Design Arena,World's largest crowdsourced benchmark for AI-generated design,https://www.ycombinator.com/companies/design-arena
+EffiGov,The AI Call Center for Local Government,https://www.ycombinator.com/companies/effigov
 Lark,AI Agents for Billing Operations,https://www.ycombinator.com/companies/lark
 datafruit,AI DevOps Engineer,https://www.ycombinator.com/companies/datafruit
 Sentinel,AI on-call engineer,https://www.ycombinator.com/companies/sentinel
@@ -130,7 +133,7 @@ Verne Robotics,AI software for autonomous robot arms,https://www.ycombinator.com
 Pharmie AI,Your AI pharmacy technician,https://www.ycombinator.com/companies/pharmie-ai
 Liva AI,ScaleAI for human voice and video data,https://www.ycombinator.com/companies/liva-ai
 Pond,Superhuman for text messages,https://www.ycombinator.com/companies/pond
-Ghostship,AI Agents that Find Bugs in Your Product,https://www.ycombinator.com/companies/ghostship
+Ghostship,Browser agents for finding UX bugs in your product,https://www.ycombinator.com/companies/ghostship
 Shor,"The fastest, most affordable payroll for global teams",https://www.ycombinator.com/companies/shor
 Golpo,Most Powerful AI Video Gen Model for Explainer Videos From Documents,https://www.ycombinator.com/companies/golpo
 Async,A team of coding agents in your pocket,https://www.ycombinator.com/companies/async
@@ -146,12 +149,13 @@ Acrely,ai-native admin for HVAC,https://www.ycombinator.com/companies/acrely
 Parametric,Robotics models to automate industries where errors can kill,https://www.ycombinator.com/companies/parametric
 Closera,AI employees for commercial real estate,https://www.ycombinator.com/companies/closera
 Meteor,An AI-Native Browser,https://www.ycombinator.com/companies/meteor
+GETASAP ASIA,Tech-Enabled Distribution for Retailers in Southeast Asia,https://www.ycombinator.com/companies/getasap-asia
 Pingo AI,AI companion that helps you learn languages,https://www.ycombinator.com/companies/pingo-ai
 Rid,Sell with a text.,https://www.ycombinator.com/companies/rid
 Synthetic Society,Synthetic Agents to Simulate Real Users,https://www.ycombinator.com/companies/synthetic-society
 Cactus,Deploy AI models locally on smartphones.,https://www.ycombinator.com/companies/cactus
 Nixo,The first ops platform built for FDEs,https://www.ycombinator.com/companies/nixo
-Serafis,The AI knowledge graph for long-form content,https://www.ycombinator.com/companies/serafis
+Serafis,The AI knowledge graph for institutional investors,https://www.ycombinator.com/companies/serafis
 Wayline,AI voice assistant for real estate managers,https://www.ycombinator.com/companies/wayline
 Ambral,AI-powered account managers,https://www.ycombinator.com/companies/ambral
 Fluidize,Helping scientists and engineers run experiments with AI.,https://www.ycombinator.com/companies/fluidize
