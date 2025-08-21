@@ -18,12 +18,12 @@ Spotlight Realty,AI powered brokerage reducing residential rental commissions in
 Interfere,The self-healing layer of the internet,https://www.ycombinator.com/companies/interfere
 TectoAI,Governance for AI Employees,https://www.ycombinator.com/companies/tectoai
 Anytrace,The AI support engineering agent,https://www.ycombinator.com/companies/anytrace
-Perspectives Health,Automating EMRs for frontline clinicians,https://www.ycombinator.com/companies/perspectives-health
+Perspectives Health,AI Agent for Clinic EMRs,https://www.ycombinator.com/companies/perspectives-health
 Modelence,All-in-one TypeScript platform for startups,https://www.ycombinator.com/companies/modelence
 Magnetic,AI tax preparation for CPAs,https://www.ycombinator.com/companies/magnetic
 Fleetline,Optimizing fleet planning with data driven algorithms,https://www.ycombinator.com/companies/fleetline
 Clodo,The AI Assistant for Real Estate Agents,https://www.ycombinator.com/companies/clodo
-stagewise,The frontend coding agent for production codebases,https://www.ycombinator.com/companies/stagewise
+stagewise,Frontend coding agent for real codebases,https://www.ycombinator.com/companies/stagewise
 Flywheel AI,Waymo for excavators,https://www.ycombinator.com/companies/flywheel-ai
 Vibe Code Go,Code from your phone,https://www.ycombinator.com/companies/vibe-code-go
 Juxta,Building a GPS alternative 100x more powerful with no hardware needed.,https://www.ycombinator.com/companies/juxta
@@ -34,7 +34,7 @@ Kernel,High performance browsers-as-a-service for web agents & automations,https
 Reacher,The marketing agent for creator collaborations,https://www.ycombinator.com/companies/reacher
 Certus AI,Replacing the restaurant phone line with Voice AI,https://www.ycombinator.com/companies/certus-ai
 Hera,AI Motion Designer,https://www.ycombinator.com/companies/hera-video
-Nottelabs,Building infrastructure for reliable web agents,https://www.ycombinator.com/companies/nottelabs
+Nottelabs,Reliable Web Agents for Enterprise,https://www.ycombinator.com/companies/nottelabs
 Pally,Pally is an AI Relationship Management Platform,https://www.ycombinator.com/companies/pally
 Locata,AI referral management for Health Centers,https://www.ycombinator.com/companies/locata
 Pleom,Talk to your AI,https://www.ycombinator.com/companies/pleom
@@ -48,7 +48,7 @@ Altur,Voice AI Agents for Debt Collection,https://www.ycombinator.com/companies/
 PARES AI,Helping commercial real estate brokers find and close more deals.,https://www.ycombinator.com/companies/pares-ai
 Avelis Health,We audit medical claims for self-insured employers and health plans.,https://www.ycombinator.com/companies/avelis-health
 Nautilus,"The car wash platform unifying data, e-commerce, and growth",https://www.ycombinator.com/companies/nautilus
-Humoniq,AI-native BPO for travel & transport,https://www.ycombinator.com/companies/humoniq
+Humoniq,Full-stack AI BPO for travel & transport,https://www.ycombinator.com/companies/humoniq
 Palace,Investment monitoring & reporting for private market investors,https://www.ycombinator.com/companies/palace
 Idler,Creating the next trillion RL environments.,https://www.ycombinator.com/companies/idler
 Floot,The easiest and most powerful way to build apps with AI.,https://www.ycombinator.com/companies/floot
@@ -70,7 +70,6 @@ Novaflow,The AI data analyst for biology labs,https://www.ycombinator.com/compan
 Perseus Defense,Guided micro-missiles for Counter-UAS.,https://www.ycombinator.com/companies/perseus-defense
 Phases,"Automating clinical trials with agents, starting in recruitment",https://www.ycombinator.com/companies/phases
 Solva,Harvey for insurance,https://www.ycombinator.com/companies/solva
-Twill,AI native Linear connected to the codebase.,https://www.ycombinator.com/companies/twill
 Albacore Inc.,Autonomous undersea vehicles to deter maritime invasions.,https://www.ycombinator.com/companies/albacore-inc
 Riff,Cursor for music production,https://www.ycombinator.com/companies/riff
 Mohi,Analyze and understand complex agent workflows with clarity.,https://www.ycombinator.com/companies/mohi
@@ -79,7 +78,7 @@ Nozomio,"Engineers for AI era, starting with contextual layer for coding agents"
 VibeFlow,Prompt to full stack app with visual workflows,https://www.ycombinator.com/companies/vibeflow
 Comena,AI agents for distributors and manufacturers to automate order entry.,https://www.ycombinator.com/companies/comena
 Normal,"Modern compliance for drones, robots, IoT, and beyond",https://www.ycombinator.com/companies/normal
-GhostEye,Attack Surface Management for Humans,https://www.ycombinator.com/companies/ghosteye
+GhostEye,Continuous Attack Surface Management for Humans,https://www.ycombinator.com/companies/ghosteye
 Channel3,Database of every product on the internet,https://www.ycombinator.com/companies/channel3
 Epicenter,"A database for your mind, built on plain text.",https://www.ycombinator.com/companies/epicenter
 Candytrail,AI Agents that run your sales funnel and train your reps,https://www.ycombinator.com/companies/candytrail
@@ -112,7 +111,7 @@ Stockline,AI-native ERP for food wholesalers,https://www.ycombinator.com/compani
 Sidekick,Automation for the rest of us,https://www.ycombinator.com/companies/heysidekick
 Keystone,Your team's AI software engineer,https://www.ycombinator.com/companies/keystone
 DeepGrove,Frontier Intelligence. On Any Device.,https://www.ycombinator.com/companies/deepgrove
-Frizzle,AI grading for math teachers,https://www.ycombinator.com/companies/frizzle
+Frizzle,"AI grading for teachers, starting with math",https://www.ycombinator.com/companies/frizzle
 Skope,The billing system for AI products,https://www.ycombinator.com/companies/skope
 OnDeck AI,"Analyze any footage, without training a model",https://www.ycombinator.com/companies/ondeck-ai
 Alter,Secure access control and authorization platform for agent workflows,https://www.ycombinator.com/companies/alter
@@ -122,7 +121,7 @@ Janet AI,The AI-Native Jira,https://www.ycombinator.com/companies/tryjanet
 Cyberdesk,The computer use agent for developers to automate Windows apps,https://www.ycombinator.com/companies/cyberdesk
 Qualify.bot,AI phone agents for Commercial Lending,https://www.ycombinator.com/companies/qualify-bot
 Panels,Voice data that makes machines sound human,https://www.ycombinator.com/companies/panels
-Herdora,Cursor for CUDA,https://www.ycombinator.com/companies/herdora
+Herdora,We make your ML models faster,https://www.ycombinator.com/companies/herdora
 Nuntius,The Alignment Company.,https://www.ycombinator.com/companies/nuntius
 Orange Slice,AI agents that find you customers who already want to buy,https://www.ycombinator.com/companies/orange-slice
 Monarcha,The AI GIS Platform,https://www.ycombinator.com/companies/monarcha
@@ -131,13 +130,14 @@ Design Arena,World's largest crowdsourced benchmark for AI-generated design,http
 EffiGov,The AI Call Center for Local Governments,https://www.ycombinator.com/companies/effigov
 bitrig,"Vibe code, test, and deploy Swift apps. All from your iPhone.",https://www.ycombinator.com/companies/bitrig
 Lark,AI Agents for Billing Operations,https://www.ycombinator.com/companies/lark
+Topological,Physics-based foundation models for CAD optimization.,https://www.ycombinator.com/companies/topological
 datafruit,AI DevOps Engineer,https://www.ycombinator.com/companies/datafruit
 Sentinel,AI on-call engineer,https://www.ycombinator.com/companies/sentinel
 ContextFort,Automating drawing reviews for construction contractors,https://www.ycombinator.com/companies/contextfort
 ZeroEval,A tool to evaluate and optimize AI agents using human feedback.,https://www.ycombinator.com/companies/zeroeval
 Verne Robotics,AI software for autonomous robot arms,https://www.ycombinator.com/companies/verne-robotics
 Pharmie AI,Your AI pharmacy technician,https://www.ycombinator.com/companies/pharmie-ai
-Liva AI,ScaleAI for human voice and video data,https://www.ycombinator.com/companies/liva-ai
+Liva AI,Scale AI for video and voice data.,https://www.ycombinator.com/companies/liva-ai
 Pond,Superhuman for text messages,https://www.ycombinator.com/companies/pond
 Ghostship,Browser agents for finding UX bugs in your product,https://www.ycombinator.com/companies/ghostship
 Shor,"The fastest, most affordable payroll for global teams",https://www.ycombinator.com/companies/shor
