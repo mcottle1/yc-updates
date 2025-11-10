@@ -1,4 +1,6 @@
 company,tagline,url
+JSX Tool,AI-First In-Browser IDE for React Development,https://www.ycombinator.com/companies/jsx-tool
+Zephyr Fusion,Powering tomorrow's industrial revolution in space,https://www.ycombinator.com/companies/zephyr-fusion
 item,The AI-Native CRM that works for you,https://www.ycombinator.com/companies/item
 Rivet,Rivet helps product designers change software without coding.,https://www.ycombinator.com/companies/rivet-design
 Openroll,The world's first Agentic compensation platform,https://www.ycombinator.com/companies/openroll
@@ -13,20 +15,22 @@ Fastshot,Lovable for mobile apps,https://www.ycombinator.com/companies/fastshot
 Claybird,AI-native video ad agency,https://www.ycombinator.com/companies/claybird
 LunaBill,Automating Calls for Healthcare Billing Teams,https://www.ycombinator.com/companies/lunabill
 Axial Composites Industries,Manufacturing cell for automated carbon fiber parts production,https://www.ycombinator.com/companies/axial-composites-industries
-Velvet,The Adobe Premiere of AI video,https://www.ycombinator.com/companies/velvet
+Velvet,The single platform for companies to create AI videos.,https://www.ycombinator.com/companies/velvet
 DiligenceSquared Inc.,AI-powered market due diligence for investment decisions,https://www.ycombinator.com/companies/diligencesquared-inc
 Amera,Automating claims processing workflows for health insurance payers.,https://www.ycombinator.com/companies/amera
+Forge Robotics,A robotics intelligence layer for metal fabrication,https://www.ycombinator.com/companies/forge-robotics
 Stratus Aviation,AI-powered intelligence layer for airports,https://www.ycombinator.com/companies/stratus-aviation
 Bluma,Automating Short-Form Video Ads at Scale,https://www.ycombinator.com/companies/bluma
 Lightberry,The social brain for robots.,https://www.ycombinator.com/companies/lightberry
 The Hog,Your Go-To-Market Command Center,https://www.ycombinator.com/companies/the-hog
 Telemetron,Customer Support Platform Built for Hardware,https://www.ycombinator.com/companies/telemetron-ai
-Boom AI,Your AI sales and support team for e-commerce brands,https://www.ycombinator.com/companies/boom-ai
+Boom AI,Your AI growth team for e-commerce brands,https://www.ycombinator.com/companies/boom-ai
 Freeport Markets,Intelligent DeFi Investing,https://www.ycombinator.com/companies/freeport-markets
 Miniswap,The Marketplace for Tabletop Games,https://www.ycombinator.com/companies/miniswap
 Rovi Health,Text-based healthcare that slashes employer health spend,https://www.ycombinator.com/companies/rovi-health
 Castari,Vercel for AI Agents – Deploy sandboxed agents with MCP tools & skills,https://www.ycombinator.com/companies/castari
 Jarmin,24/7 Machine Learning Engineer employees,https://www.ycombinator.com/companies/jarmin
+Exonic,Crowdsourcing drug discovery.,https://www.ycombinator.com/companies/exonic
 Lemma,Continuous learning for AI agents,https://www.ycombinator.com/companies/uselemma
 Mantle,Build internal agents to automate back office work with one prompt,https://www.ycombinator.com/companies/mantle
 Karumi,AI-powered product demos,https://www.ycombinator.com/companies/karumi
@@ -34,12 +38,13 @@ Icarus,Stratospheric birds for defense,https://www.ycombinator.com/companies/ica
 Sava,The Agentic Trust Company,https://www.ycombinator.com/companies/savahq
 Waffer,Lovable for Animated Graphics Videos,https://www.ycombinator.com/companies/waffer
 Denki,AI for Auditors at Public Companies,https://www.ycombinator.com/companies/denki
+Arcten,Infrastructure for AI Agents,https://www.ycombinator.com/companies/arcten
 Metorial,Vercel for MCP,https://www.ycombinator.com/companies/metorial
 Kalpa Labs,Frontier Speech models,https://www.ycombinator.com/companies/kalpa-labs
-Absurd,Absurd AI Launch Videos,https://www.ycombinator.com/companies/absurd
+Absurd,Absurd AI Video Ads (300K avg views/video on X),https://www.ycombinator.com/companies/absurd
 Clad Labs,brainrot ide,https://www.ycombinator.com/companies/clad-labs
 Automax.ai,AI Agents for automating real-estate appraisals,https://www.ycombinator.com/companies/automax-ai
-Specific,Platform for engineers to build backends without code,https://www.ycombinator.com/companies/specific
+Specific,Platform for building production-ready backends without code,https://www.ycombinator.com/companies/specific
 Primer,AI Product Demos,https://www.ycombinator.com/companies/primer
 Narrative,Edit thousands of hours of footage in seconds,https://www.ycombinator.com/companies/usenarrative
 Crunched,The first Excel AI analyst built by and for Excel power users,https://www.ycombinator.com/companies/crunched
@@ -47,9 +52,9 @@ Lua Global Inc,The unified agent platform for mid-market enterprises,https://www
 Spatial AI,Data for robot foundational models,https://www.ycombinator.com/companies/spatial-ai
 Sourcebot,Helping humans and AI agents understand massive codebases,https://www.ycombinator.com/companies/sourcebot
 Zalos,"Computer Agents for Finance tasks like reconciliation, in your system!",https://www.ycombinator.com/companies/zalos
-HireGlide,Turning recruiting into an efficient market.,https://www.ycombinator.com/companies/hireglide
+HireGlide,AI screening and matching for hiring teams,https://www.ycombinator.com/companies/hireglide
 Aside,Real-time suggestions for sales calls,https://www.ycombinator.com/companies/aside
-Scott AI,Coding Agent Plan Mode with Superpowers,https://www.ycombinator.com/companies/scott-ai
+Scott AI,Agentic Workspace for Software Spec Design,https://www.ycombinator.com/companies/scott-ai
 Everest,We build AI support engineers for outsourced IT services (MSPs),https://www.ycombinator.com/companies/everest
 Expected Parrot,Simulate your stakeholders.,https://www.ycombinator.com/companies/expected-parrot
 Imagine AI,Your AI Clone for B2B Content,https://www.ycombinator.com/companies/imagine-ai
@@ -62,21 +67,21 @@ Leadbay,Discover and qualify SMB leads others can’t find.,https://www.ycombina
 Pixley AI,The first platform where parents & kids can co-create AI cartoon shows,https://www.ycombinator.com/companies/pixley-ai
 Cortex AI,Large-scale real-world robot & egocentric data for embodied AI,https://www.ycombinator.com/companies/cortex-ai
 Inspector,The fastest way to iterate on front-end,https://www.ycombinator.com/companies/inspector
-Thesis Labs,Thesis is an applied research lab accelerating human-in-the-loop AI…,https://www.ycombinator.com/companies/thesis-labs
-Play Health,Perimenopause health platform redefining women's midlife care,https://www.ycombinator.com/companies/play-health
-Casey,The infrastructure layer for insurance distribution,https://www.ycombinator.com/companies/casey
+Thesis,The scientific discovery engine.,https://www.ycombinator.com/companies/thesis
+Play Health,"Personalized, Data-Driven Perimenopause Care Platform",https://www.ycombinator.com/companies/play-health
+Casey,AI agents built to run insurance,https://www.ycombinator.com/companies/casey
 Selfin,The first AI Bank,https://www.ycombinator.com/companies/selfin
 Compyle,Lovable for Software Engineers,https://www.ycombinator.com/companies/compyle
 Lexi,AI Powered Associates,https://www.ycombinator.com/companies/lexi
 Codyco,AI Receptionist for Hotel Groups,https://www.ycombinator.com/companies/codyco
 ComplyDo,"More Comply, Less Do. Most flexible compliance engine for enterprises.",https://www.ycombinator.com/companies/complydo
 Bravi,Automating communications for home services companies,https://www.ycombinator.com/companies/bravi
-Rovr,Granular Customer Research at Scale,https://www.ycombinator.com/companies/rovr
+Rovr,The Next-Gen AI FDE,https://www.ycombinator.com/companies/rovr
 Sunflower,Building the Sobriety Platform for the future of Superintelligence. 🌻,https://www.ycombinator.com/companies/sunflower
 Captain,The Reliable Alternative to RAG,https://www.ycombinator.com/companies/captain
 Redapto,Self-improving systems for Customer Support Teams,https://www.ycombinator.com/companies/redapto
 Articulate,Speeding Up Construction with AI,https://www.ycombinator.com/companies/articulate
-Aleph Lab,Your child’s AI language buddy inside the games they already love.,https://www.ycombinator.com/companies/aleph-lab
+Aleph Lab,AI language buddy in the games kids love,https://www.ycombinator.com/companies/aleph-lab
 Logical,A hyper context-aware and proactive desktop AI copilot,https://www.ycombinator.com/companies/logical
 Agentic Fabriq,Okta for Agents.,https://www.ycombinator.com/companies/agentic-fabriq
 Kestrel AI,AI-Native Kubernetes Ops & Security Platform,https://www.ycombinator.com/companies/kestrel-ai
@@ -104,7 +109,7 @@ Iris,"All your calendars and inboxes, powered by an intelligent assistant.",http
 PlayVision,AI Moneyball for Sports,https://www.ycombinator.com/companies/playvision
 Koyal,Personalized Audio to Video Filmmaking,https://www.ycombinator.com/companies/koyal
 Kaigo Health,AI-powered outpatient care management platform,https://www.ycombinator.com/companies/kaigo-health
-Norra,AI Operations Platform for Nursing Facilites,https://www.ycombinator.com/companies/norra
+Norra,AI Equipment Operations Platform for Nursing Facilites,https://www.ycombinator.com/companies/norra
 Soren,Autonomous QA engineer for AI systems,https://www.ycombinator.com/companies/soren
 Lunavo,Lunavo is the AI assistant for carriers.,https://www.ycombinator.com/companies/lunavo
 Dari,The easiest way to build reliable browser use agents.,https://www.ycombinator.com/companies/dari
@@ -114,13 +119,14 @@ Caddy,Control all your work apps with your voice,https://www.ycombinator.com/com
 Alt-X,AI Diligence Tools for Private Investors,https://www.ycombinator.com/companies/alt-x
 Locus,Payment infrastructure for agents,https://www.ycombinator.com/companies/locus
 Deeptrace,AI agents for on-call,https://www.ycombinator.com/companies/deeptrace
-Aspect,AI Agents for post-production teams,https://www.ycombinator.com/companies/aspect-inc
+Aspect,AI agents for post-production teams,https://www.ycombinator.com/companies/aspect-inc
+Scoop,"AI agents that speed up drug trials, starting with IND filings",https://www.ycombinator.com/companies/scoop
 Hyperspell,Memory for AI Agents.,https://www.ycombinator.com/companies/hyperspell
 Bolna AI,Voice AI to enable India's next billion,https://www.ycombinator.com/companies/bolna-ai
 Nexus,We help non-technical teams build AI agent no-code,https://www.ycombinator.com/companies/gpt
 Sylvian,Data for LLMs through Competition,https://www.ycombinator.com/companies/sylvian
 Zavo,Agentic Point of Sale for restaurants and retail,https://www.ycombinator.com/companies/zavo
-MOVEdot,AI Agents for Physical World Testing,https://www.ycombinator.com/companies/movedot
+MOVEdot,AI Agents for Sensor Data Analysis,https://www.ycombinator.com/companies/movedot
 Parrot,TikTok for language learning,https://www.ycombinator.com/companies/parrot
 Brickwise,AI property manager for landlords and estate agents,https://www.ycombinator.com/companies/brickwise
 Parse,Build an API to interact with any website in seconds.,https://www.ycombinator.com/companies/parse-bot
@@ -131,7 +137,7 @@ Brickanta,Cursor for construction estimation & project management,https://www.yc
 Remedy,AI Agents for Pharmacies,https://www.ycombinator.com/companies/remedy
 Semiotic,AI-native design firm,https://www.ycombinator.com/companies/semiotic
 Lapis,"The Fastest, Most Accurate AI Search Analytics Platform.",https://www.ycombinator.com/companies/lapis
-Efference,We help robots see like humans do.,https://www.ycombinator.com/companies/efference
+Efference,We build the eyes and visual cortex for robots.,https://www.ycombinator.com/companies/efference
 Digipals,The First AI-Native Social Operating System,https://www.ycombinator.com/companies/digipals
 Mixy,Make Mashups,https://www.ycombinator.com/companies/mixy
 AutoAce,AI-native operating system for car dealerships,https://www.ycombinator.com/companies/autoace
