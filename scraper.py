@@ -48,11 +48,21 @@ def fetch_html(url):
     if not batch_facet:
         raise RuntimeError("Could not find the 'Batch' facet block")
 
+    # for label in batch_facet.find_elements(By.TAG_NAME, "label"):
+    #     checkbox = label.find_element(By.TAG_NAME, "input")
+    #     if not checkbox.is_selected():
+    #         label.click()
+    #         break
+
+    unselected_count = 0
+
     for label in batch_facet.find_elements(By.TAG_NAME, "label"):
         checkbox = label.find_element(By.TAG_NAME, "input")
         if not checkbox.is_selected():
-            label.click()
-            break
+            unselected_count += 1
+            if unselected_count == 2:
+                label.click()
+                break
 
     wait.until(EC.url_contains("batch="))
     time.sleep(1)
