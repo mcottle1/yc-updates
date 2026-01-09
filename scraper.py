@@ -70,7 +70,7 @@ def fetch_html(url):
             break
         last_height = new_height
 
-    pages.append(BeautifulSoup(driver.page_source, "lxml"))
+    pages.append(driver.page_source)
 
     for label in batch_facet.find_elements(By.TAG_NAME, "label"):
         checkbox = label.find_element(By.TAG_NAME, "input")
@@ -104,7 +104,7 @@ def fetch_html(url):
             break
         last_height = new_height
 
-    pages.append(BeautifulSoup(driver.page_source, "lxml"))
+    pages.append(driver.page_source)
 
     driver.quit()
     return pages
