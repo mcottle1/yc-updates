@@ -59,8 +59,6 @@ def fetch_html(url):
     wait.until(EC.url_contains("batch="))
     time.sleep(1)
 
-    print("First URL: " + driver.current_url)
-
     last_height = driver.execute_script("return document.body.scrollHeight")
     while True:
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -79,7 +77,6 @@ def fetch_html(url):
             break
 
     time.sleep(1)
-    print("Second URL: " + driver.current_url)
 
     unselected_count = 0
 
@@ -93,7 +90,6 @@ def fetch_html(url):
 
     wait.until(EC.url_contains("batch="))
     time.sleep(1)
-    print("Third URL: " + driver.current_url)
 
     last_height = driver.execute_script("return document.body.scrollHeight")
     while True:
@@ -391,7 +387,7 @@ def main():
     all_companies = []
     for page in html:
         companies = parse_companies(page)
-        all_companies.append(companies)
+        all_companies.extend(companies)
 
     save_to_csv(all_companies)
     print(f"Saved {len(all_companies)} companies to companies.csv")
