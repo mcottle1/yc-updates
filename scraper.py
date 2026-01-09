@@ -47,12 +47,39 @@ def fetch_html(url):
 
     if not batch_facet:
         raise RuntimeError("Could not find the 'Batch' facet block")
+    
+    pages = []
 
-    # for label in batch_facet.find_elements(By.TAG_NAME, "label"):
-    #     checkbox = label.find_element(By.TAG_NAME, "input")
-    #     if not checkbox.is_selected():
-    #         label.click()
-    #         break
+    for label in batch_facet.find_elements(By.TAG_NAME, "label"):
+        checkbox = label.find_element(By.TAG_NAME, "input")
+        if not checkbox.is_selected():
+            label.click()
+            break
+
+    wait.until(EC.url_contains("batch="))
+    time.sleep(1)
+
+    print("First URL: " + driver.current_url)
+
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    while True:
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        time.sleep(2)
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            break
+        last_height = new_height
+
+    pages.append(BeautifulSoup(driver.page_source, "lxml"))
+
+    for label in batch_facet.find_elements(By.TAG_NAME, "label"):
+        checkbox = label.find_element(By.TAG_NAME, "input")
+        if not checkbox.is_selected():
+            label.click()
+            break
+
+    time.sleep(1)
+    print("Second URL: " + driver.current_url)
 
     unselected_count = 0
 
@@ -66,6 +93,7 @@ def fetch_html(url):
 
     wait.until(EC.url_contains("batch="))
     time.sleep(1)
+    print("Third URL: " + driver.current_url)
 
     last_height = driver.execute_script("return document.body.scrollHeight")
     while True:
@@ -76,9 +104,10 @@ def fetch_html(url):
             break
         last_height = new_height
 
-    rendered_html = driver.page_source
+    pages.append(BeautifulSoup(driver.page_source, "lxml"))
+
     driver.quit()
-    return rendered_html
+    return pages
 
 def parse_companies(html):
     soup = BeautifulSoup(html, "html.parser")
@@ -358,11 +387,16 @@ def main():
     existing_set = load_existing()
 
     html      = fetch_html(URL)
-    companies = parse_companies(html)
-    save_to_csv(companies)
-    print(f"Saved {len(companies)} companies to companies.csv")
 
-    new_rows = detect_new_rows(companies, existing_set)
+    all_companies = []
+    for page in html:
+        companies = parse_companies(page)
+        all_companies.append(companies)
+
+    save_to_csv(all_companies)
+    print(f"Saved {len(all_companies)} companies to companies.csv")
+
+    new_rows = detect_new_rows(all_companies, existing_set)
 
     founders_data = []
     
