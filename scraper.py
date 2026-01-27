@@ -30,7 +30,7 @@ def fetch_html(url):
     wait = WebDriverWait(driver, timeout=10)
 
     facets = wait.until(EC.presence_of_all_elements_located(
-        (By.CLASS_NAME, "_facet_i9oky_85")
+        (By.CLASS_NAME, "_facet_zhfs4_85")
     ))
 
     time.sleep(10)
