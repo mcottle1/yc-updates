@@ -70,10 +70,15 @@ def fetch_html(url):
 
     pages.append(driver.page_source)
 
+    driver.execute_script("""
+        window.scrollTo(0, 0);
+        window.scrollBy(0, 1);
+    """)
+
     for label in batch_facet.find_elements(By.TAG_NAME, "label"):
         checkbox = label.find_element(By.TAG_NAME, "input")
         if not checkbox.is_selected():
-            checkbox.click()
+            label.click()
             break
 
     time.sleep(1)
@@ -85,7 +90,7 @@ def fetch_html(url):
         if not checkbox.is_selected():
             unselected_count += 1
             if unselected_count == 2:
-                checkbox.click()
+                label.click()
                 break
 
     wait.until(EC.url_contains("batch="))
