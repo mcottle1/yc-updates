@@ -73,7 +73,7 @@ def fetch_html(url):
     for label in batch_facet.find_elements(By.TAG_NAME, "label"):
         checkbox = label.find_element(By.TAG_NAME, "input")
         if not checkbox.is_selected():
-            label.click()
+            checkbox.click()
             break
 
     time.sleep(1)
@@ -85,7 +85,7 @@ def fetch_html(url):
         if not checkbox.is_selected():
             unselected_count += 1
             if unselected_count == 2:
-                label.click()
+                checkbox.click()
                 break
 
     wait.until(EC.url_contains("batch="))
