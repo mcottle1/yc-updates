@@ -144,42 +144,42 @@ def fetch_html(url):
 
     pages.append(driver.page_source)
 
-    driver.execute_script("""
-        window.scrollTo(0, 0);
-        window.scrollBy(0, 1);
-    """)
+    # driver.execute_script("""
+    #     window.scrollTo(0, 0);
+    #     window.scrollBy(0, 1);
+    # """)
 
-    for label in batch_facet.find_elements(By.TAG_NAME, "label"):
-        checkbox = label.find_element(By.TAG_NAME, "input")
-        if not checkbox.is_selected():
-            label.click()
-            break
+    # for label in batch_facet.find_elements(By.TAG_NAME, "label"):
+    #     checkbox = label.find_element(By.TAG_NAME, "input")
+    #     if not checkbox.is_selected():
+    #         label.click()
+    #         break
 
-    time.sleep(1)
+    # time.sleep(1)
 
-    unselected_count = 0
+    # unselected_count = 0
 
-    for label in batch_facet.find_elements(By.TAG_NAME, "label"):
-        checkbox = label.find_element(By.TAG_NAME, "input")
-        if not checkbox.is_selected():
-            unselected_count += 1
-            if unselected_count == 4:
-                label.click()
-                break
+    # for label in batch_facet.find_elements(By.TAG_NAME, "label"):
+    #     checkbox = label.find_element(By.TAG_NAME, "input")
+    #     if not checkbox.is_selected():
+    #         unselected_count += 1
+    #         if unselected_count == 4:
+    #             label.click()
+    #             break
 
-    wait.until(EC.url_contains("batch="))
-    time.sleep(1)
+    # wait.until(EC.url_contains("batch="))
+    # time.sleep(1)
 
-    last_height = driver.execute_script("return document.body.scrollHeight")
-    while True:
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(2)
-        new_height = driver.execute_script("return document.body.scrollHeight")
-        if new_height == last_height:
-            break
-        last_height = new_height
+    # last_height = driver.execute_script("return document.body.scrollHeight")
+    # while True:
+    #     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    #     time.sleep(2)
+    #     new_height = driver.execute_script("return document.body.scrollHeight")
+    #     if new_height == last_height:
+    #         break
+    #     last_height = new_height
 
-    pages.append(driver.page_source)
+    # pages.append(driver.page_source)
 
     driver.quit()
     return pages
@@ -271,7 +271,7 @@ def get_founder_info(company_url):
                     print(f"Could not find description for card {i+1}")
                 
                 try:
-                    social_container = card.find_element(By.CSS_SELECTOR, ".mt-2.flex.gap-2")
+                    social_container = card.find_element(By.CSS_SELECTOR, "flex gap-x-1 flex")
                     social_links = social_container.find_elements(By.TAG_NAME, "a")
                     
                     for link in social_links:
