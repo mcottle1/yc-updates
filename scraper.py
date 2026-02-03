@@ -271,7 +271,7 @@ def get_founder_info(company_url):
                     print(f"Could not find description for card {i+1}")
                 
                 try:
-                    social_container = card.find_element(By.CSS_SELECTOR, "flex gap-x-1 flex")
+                    social_container = card.find_element(By.CSS_SELECTOR, ".flex.gap-x-1")
                     social_links = social_container.find_elements(By.TAG_NAME, "a")
                     
                     for link in social_links:
