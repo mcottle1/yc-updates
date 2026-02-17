@@ -2,6 +2,7 @@ company,tagline,url
 Tsenta,"AI-Native, On-Device Job Automation",https://www.ycombinator.com/companies/tsenta
 Bujo AI,AI voice & chat agents for sales and customer support at large B2C…,https://www.ycombinator.com/companies/bujo
 Cardinal,AI Platform for Precision Outbound,https://www.ycombinator.com/companies/trycardinal-ai
+Wideframe,AI agent for video creative agencies,https://www.ycombinator.com/companies/wideframe
 Martini,Collaborative AI-native filmmaking for professionals,https://www.ycombinator.com/companies/martini
 Condor Energy,"Energy system enabling reliable, cheap and sustainable electricity…",https://www.ycombinator.com/companies/condor-energy
 Resonate,The first AI-native messaging platform.,https://www.ycombinator.com/companies/resonate
@@ -15,6 +16,7 @@ Origami Robotics,Manipulate Anything Robot,https://www.ycombinator.com/companies
 Librar Labs,The first and only AI-librarian.,https://www.ycombinator.com/companies/librar-labs
 Zymbly,Automates admin for aircraft technicians,https://www.ycombinator.com/companies/zymbly
 Ritivel,AI-native platform for regulatory document submission,https://www.ycombinator.com/companies/ritivel
+Polymorph,"AI that catches intent & churn live, then acts faster than a human can",https://www.ycombinator.com/companies/polymorph
 Pollinate,AI Agents for the supply chain.,https://www.ycombinator.com/companies/pollinate
 SpotPay,Cross-border Personal Finance on Stablecoins,https://www.ycombinator.com/companies/spotpay
 VOYGR,Real-world place intelligence for AI apps and agents,https://www.ycombinator.com/companies/voygr
@@ -34,7 +36,7 @@ Corelayer,AI on-call engineer that debugs using data,https://www.ycombinator.com
 General Legal,The AI native law firm for growth stage companies,https://www.ycombinator.com/companies/general-legal
 Fort,Strength Tracking Wearable,https://www.ycombinator.com/companies/fort
 Balance,Full-Stack AI Accounting,https://www.ycombinator.com/companies/getbalance
-Chasi,"AI Concierge for Equipment sales, service & rentals",https://www.ycombinator.com/companies/chasi
+Chasi,AI Revenue Engine for the Equipment Industry,https://www.ycombinator.com/companies/chasi
 Remy AI,Automating dexterous tasks in warehouses,https://www.ycombinator.com/companies/remy-ai
 o11,The Most Integrated M365 AI Suite,https://www.ycombinator.com/companies/o11
 Sequence Markets,Smarter and faster trade execution for digital assets,https://www.ycombinator.com/companies/sequence-markets
@@ -60,7 +62,7 @@ Ressl AI,AI Transformation Partner,https://www.ycombinator.com/companies/ressl-a
 Emdash,Open-source Agentic Development Environment,https://www.ycombinator.com/companies/emdash
 Reframe,AI agents to automate hardware procurement,https://www.ycombinator.com/companies/usereframe
 SideKit,One package to take your mobile app to production.,https://www.ycombinator.com/companies/sidekit
-Traverse,Reinforcement learning environments for long horizon agent journeys,https://www.ycombinator.com/companies/traverse
+Traverse,Data research company building RL envs for non-deterministic work,https://www.ycombinator.com/companies/traverse
 Maywood,AI for M&A,https://www.ycombinator.com/companies/maywood
 Fenrock AI (YC W26),The most powerful AI agents for Financial Crime Compliance,https://www.ycombinator.com/companies/fenrock-ai-yc-w26
 Chamber,Autopiloting your AI infrastructure,https://www.ycombinator.com/companies/chamber
@@ -81,6 +83,7 @@ Stilta,Cursor for patent attorneys,https://www.ycombinator.com/companies/stilta
 Unisson,The AI product specialist for customer-facing teams,https://www.ycombinator.com/companies/unisson
 Compresr,LLM-native context compression,https://www.ycombinator.com/companies/compresr
 Opalite Health,Solving language barriers in healthcare,https://www.ycombinator.com/companies/opalite-health
+Sponge,Financial infrastructure for the agent economy,https://www.ycombinator.com/companies/sponge
 Q2Q,We help private equity teams find acquisition targets faster,https://www.ycombinator.com/companies/q2q
 Orthogonal,Agentic Payments for APIs,https://www.ycombinator.com/companies/orthogonal
 Perfectly,The AI-native Recruiting Operating System,https://www.ycombinator.com/companies/perfectly
@@ -107,6 +110,7 @@ Avoice,The AI Workspace For Architects,https://www.ycombinator.com/companies/avo
 Kyten Technologies,Custom aerospace-grade battery pack factory,https://www.ycombinator.com/companies/kyten-technologies
 ZeroSettle,Bypass the App Store tax and enable web-based purchases,https://www.ycombinator.com/companies/zerosettle
 Piris Labs,Inference at Light Speed,https://www.ycombinator.com/companies/pirislabs
+CellType,The agentic drug company. We simulate human biology.,https://www.ycombinator.com/companies/celltype
 Burt,Easily fine tune and deploy specialized models,https://www.ycombinator.com/companies/burt
 Cascade,Making Autonomous Intelligence Safe & Reliable,https://www.ycombinator.com/companies/cascade
 Beacon Health,AI Agents for Primary Care,https://www.ycombinator.com/companies/beacon-health
@@ -120,7 +124,7 @@ REV1,Shortening hardware design cycles by automating post-CAD work,https://www.y
 Asimov,Internet-scale marketplace for robot training data,https://www.ycombinator.com/companies/asimov
 Lexius,AI Crime Detection,https://www.ycombinator.com/companies/lexius
 Axis,Models for Monitoring Commodities Markets,https://www.ycombinator.com/companies/axis-2
-Sonarly,The AI engineer for production,https://www.ycombinator.com/companies/sonarly
+Sonarly,AI engineer to triage and fix your production alerts,https://www.ycombinator.com/companies/sonarly
 Lance,Your Hotel's Best Employees,https://www.ycombinator.com/companies/lance
 RunAnywhere,The default way of running On-Device AI at Scale,https://www.ycombinator.com/companies/runanywhere
 Lucent,AI that automatically watches your session replays to detect bugs.,https://www.ycombinator.com/companies/lucent
