@@ -1,5 +1,6 @@
 company,tagline,url
 Tsenta,"AI-Native, On-Device Job Automation",https://www.ycombinator.com/companies/tsenta
+Datost,AI data analyst in Slack. Democratize data.,https://www.ycombinator.com/companies/datost
 Arga Labs,The validation framework for AI agents,https://www.ycombinator.com/companies/arga-labs
 qomplement,AI Agents for Document Filling,https://www.ycombinator.com/companies/qomplement
 9 Mothers,AI weapon systems,https://www.ycombinator.com/companies/9-mothers-corporation
@@ -12,6 +13,7 @@ Resonate,The first AI-native messaging platform.,https://www.ycombinator.com/com
 Shofo,Common Crawl for Video,https://www.ycombinator.com/companies/shofo
 Wayco,AI operator for legal case referrals,https://www.ycombinator.com/companies/wayco
 Unifold,Multi-chain deposit and payment infrastructure,https://www.ycombinator.com/companies/unifold
+Carrot Labs,Continuous Learning Platform for AI Agents,https://www.ycombinator.com/companies/carrot-labs
 Aurorin CAD,We help hardware companies ship faster,https://www.ycombinator.com/companies/aurorin-cad
 DAIVIN!,"Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",https://www.ycombinator.com/companies/daivin
 GrazeMate,Robot Cowboys that Herd Cattle with AI Drones,https://www.ycombinator.com/companies/grazemate
@@ -32,7 +34,8 @@ Canary,The first AI QA engineer that understands your codebase,https://www.ycomb
 Grade,Payroll for performance,https://www.ycombinator.com/companies/grade
 Sila,Agent & Team Communication Workspace,https://www.ycombinator.com/companies/sila
 Maven,Payments for Voice Agents,https://www.ycombinator.com/companies/maven
-Moda,The monitoring & analytics layer your AI agents need.,https://www.ycombinator.com/companies/moda
+Moda,The reliability & monitoring layer your AI agents need.,https://www.ycombinator.com/companies/moda
+The Token Company,Compression middleware that improves LLM outputs,https://www.ycombinator.com/companies/the-token-company
 BeeSafe AI,Stopping Scams Before They Reach Your Customers,https://www.ycombinator.com/companies/beesafe-ai
 Fed10,AI agents that replace your policy consultants,https://www.ycombinator.com/companies/fed10
 Squid,AI-powered grid planning in your browser 🦑 (squid.energy),https://www.ycombinator.com/companies/squid
@@ -70,7 +73,8 @@ Ressl AI,AI Transformation for the Trades,https://www.ycombinator.com/companies/
 Emdash,Open-source Agentic Development Environment,https://www.ycombinator.com/companies/emdash
 Congruent,We build radars for end-to-end autonomy,https://www.ycombinator.com/companies/congruent
 Reframe,AI agents to automate hardware procurement,https://www.ycombinator.com/companies/usereframe
-SideKit,One package to take your mobile app to production.,https://www.ycombinator.com/companies/sidekit
+Valence,Unified prediction markets trading platform,https://www.ycombinator.com/companies/valence
+Approxima,"Let your software build itself with agents that can find issues,…",https://www.ycombinator.com/companies/approxima
 Traverse,Data research company building RL envs for non-deterministic work,https://www.ycombinator.com/companies/traverse
 Revion,Intelligence for Automotive Operations,https://www.ycombinator.com/companies/revion
 Maywood,AI for M&A,https://www.ycombinator.com/companies/maywood
@@ -136,11 +140,11 @@ Envariant,Interpretability and reasoning infra for foundation models.,https://ww
 Cascade,Making Autonomous Intelligence Safe & Reliable,https://www.ycombinator.com/companies/cascade
 Beacon Health,AI Agents for Primary Care,https://www.ycombinator.com/companies/beacon-health
 Strand AI,Curated multimodal datasets for biology AI,https://www.ycombinator.com/companies/strand-ai
-Clam,Enterprise-grade security for broad-access AI Agents like OpenClaw,https://www.ycombinator.com/companies/clam
+Clam (formerly Baseframe),Enterprise-grade security for broad-access AI Agents like OpenClaw,https://www.ycombinator.com/companies/clam
 Protent,Protent turns passive surveillance into proactive intelligence.,https://www.ycombinator.com/companies/protent
 Cofia,AI automations that write themselves,https://www.ycombinator.com/companies/cofia
 LegalOS,The AI-powered law firm for complex work visas,https://www.ycombinator.com/companies/legalos
-Sentrial,Production Monitoring for AI Products,https://www.ycombinator.com/companies/sentrial
+Sentrial,Production Monitoring for AI Agents,https://www.ycombinator.com/companies/sentrial
 10x Science,The AI-native platform for next-generation protein characterization.,https://www.ycombinator.com/companies/10x-science
 REV1,Shortening hardware design cycles by automating post-CAD work,https://www.ycombinator.com/companies/rev1
 shortkit,We make enterprise-scale short-form video really simple.,https://www.ycombinator.com/companies/shortkit
@@ -170,6 +174,7 @@ FullSeam,FullSeam is an AI employee for finance and accounting teams.,https://ww
 CatchBack Cards,a platform for maximizing the thrill of collecting trading cards,https://www.ycombinator.com/companies/catchback-cards
 Mantis Biotechnology,Physics-Enhanced Datasets for Low-Resource Machine Learning,https://www.ycombinator.com/companies/mantis-biotechnology
 Haladir,Building Operational Superintelligence.,https://www.ycombinator.com/companies/haladir
+ClaimGlide,AI automated prior-auths for private medical practices,https://www.ycombinator.com/companies/claimglide
 Inviscid AI,Real-time Building Simulations to Optimize Energy and Operational…,https://www.ycombinator.com/companies/inviscid-ai
 Crosslayer Labs,"Protect, monitor and defend your Internet presence",https://www.ycombinator.com/companies/crosslayer-labs
 Voltair,Self Charging Drones,https://www.ycombinator.com/companies/voltair
@@ -187,4 +192,5 @@ Overdrive Health,AI Powered Medical Billing,https://www.ycombinator.com/companie
 Return Signals,AI luxury concierge for E-commerce brands,https://www.ycombinator.com/companies/return-signals
 "Galactic Resource Utilization Space, Inc. (GRU Space)",Building the First Hotel on the Moon,https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space
 Bidflow,AI Copilot for Electrical Estimating,https://www.ycombinator.com/companies/bidflow
+Menza,Your 24/7 Data Analyst,https://www.ycombinator.com/companies/menza
 Q2Q,We help private equity teams find acquisition targets faster,https://www.ycombinator.com/companies/q2q
