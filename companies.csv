@@ -1,10 +1,12 @@
 company,tagline,url
 Tsenta,"AI-Native, On-Device Job Automation",https://www.ycombinator.com/companies/tsenta
 Indexable,sandbox infrastructure for AI agents,https://www.ycombinator.com/companies/indexable
+Arzana,AI automation for the manufacturing office,https://www.ycombinator.com/companies/arzana
 Datost,AI data analyst in Slack. Democratize data.,https://www.ycombinator.com/companies/datost
 Minicor,Run self-healing desktop automations at scale,https://www.ycombinator.com/companies/minicor
 Arga Labs,The validation framework for AI agents,https://www.ycombinator.com/companies/arga-labs
 qomplement,AI Agents for Document Filling,https://www.ycombinator.com/companies/qomplement
+primitive,Communication for agents,https://www.ycombinator.com/companies/primitive
 Superset,IDE for the AI Agents Era,https://www.ycombinator.com/companies/superset
 9 Mothers,AI weapon systems,https://www.ycombinator.com/companies/9-mothers-corporation
 Bujo AI,AI voice & chat agents for sales and customer support at large B2C…,https://www.ycombinator.com/companies/bujo
@@ -30,10 +32,10 @@ Pollinate,AI Agents for the supply chain.,https://www.ycombinator.com/companies/
 SpotPay,Cross-border Personal Finance on Stablecoins,https://www.ycombinator.com/companies/spotpay
 VOYGR,Real-world place intelligence for AI apps and agents,https://www.ycombinator.com/companies/voygr
 MochaCare,AI-Supercharged Humans for Home Care Agency Growth,https://www.ycombinator.com/companies/mochacare
-Vela,AI Scheduling Coordinators for Staffing and Recruiting,https://www.ycombinator.com/companies/vela
+Vela,AI Scheduling Assistant for the Most Complex Interactions,https://www.ycombinator.com/companies/vela
 Veriad,AI compliance officers,https://www.ycombinator.com/companies/veriad
 Talking Computers,Autonomous Organizations for Enterprises,https://www.ycombinator.com/companies/talking-computers
-Copperlane,Agents for Mortgage Origination,https://www.ycombinator.com/companies/copperlane
+Copperlane,AI Mortgage Loan Officer,https://www.ycombinator.com/companies/copperlane
 Canary,The first AI QA engineer that understands your codebase,https://www.ycombinator.com/companies/canary
 Grade,API for performance-based payroll,https://www.ycombinator.com/companies/grade
 Sila,Agentic Workspace Messaging,https://www.ycombinator.com/companies/sila
@@ -58,7 +60,7 @@ Doomersion,Doomscroll to learn languages,https://www.ycombinator.com/companies/d
 Sequence Markets,Low latency infrastructure for fragmented crypto markets,https://www.ycombinator.com/companies/sequence-markets
 Ditto Biosciences,Evolutionary therapies for autoimmune disease,https://www.ycombinator.com/companies/ditto-biosciences
 Servo7,Simple and rapidly deployed robots for industry work,https://www.ycombinator.com/companies/servo7
-Arzule,"AI native platform to find, track, and grow revenue from partnerships",https://www.ycombinator.com/companies/arzule
+Arzule,ROI attribution to scale ecosystem driven growth,https://www.ycombinator.com/companies/arzule
 Voxel Energy,Energy independent data centers with solar and repurposed batteries.,https://www.ycombinator.com/companies/voxel-energy
 Polymath,Worlds for training & evaluating AI agents,https://www.ycombinator.com/companies/polymath
 Bubble Lab,Your ops super-employee in Slack,https://www.ycombinator.com/companies/bubble-lab
@@ -83,7 +85,7 @@ Approxima,Your software should build itself.,https://www.ycombinator.com/compani
 Traverse,Data research lab for the non-verifiable,https://www.ycombinator.com/companies/traverse
 Revion,Intelligence for Automotive Operations,https://www.ycombinator.com/companies/revion
 Maywood,AI for M&A,https://www.ycombinator.com/companies/maywood
-Fenrock AI,The most powerful AI agents for back office at banks and private…,https://www.ycombinator.com/companies/fenrock-ai
+Fenrock AI,The most powerful AI agents for back office at banks,https://www.ycombinator.com/companies/fenrock-ai
 End Close,AI powered reconciliation for high-volume payments companies,https://www.ycombinator.com/companies/end-close
 Chamber,Autopiloting your AI infrastructure,https://www.ycombinator.com/companies/chamber
 Patientdesk.ai,AI voice agent for patient calls & admin workflows,https://www.ycombinator.com/companies/patientdeskai
@@ -110,7 +112,7 @@ Confluence Labs,foundation models optimized for learning efficiency,https://www.
 Mango Medical,We simulate orthopedic surgeries based on CT scans,https://www.ycombinator.com/companies/mango-medical-inc
 Sponge,Financial infrastructure for the agent economy,https://www.ycombinator.com/companies/sponge
 Terranox AI,AI-powered uranium exploration,https://www.ycombinator.com/companies/terranox-ai
-Ventura,AI Employees for Industrial Distributors,https://www.ycombinator.com/companies/ventura
+Ventura,AI Teammates for Industrial Distributors,https://www.ycombinator.com/companies/ventura
 Orthogonal,Agentic Payments for APIs,https://www.ycombinator.com/companies/orthogonal
 Perfectly,The AI-native Recruiting Operating System,https://www.ycombinator.com/companies/perfectly
 Fern (Formerly Ishiki Labs),Realtime AI meeting assistant starting with sales,https://www.ycombinator.com/companies/ishikilabs
@@ -134,11 +136,12 @@ AutoSitu,AI-native workspace for development plan reviews,https://www.ycombinato
 Verdex,Satellite Imagery Verification for Insurance,https://www.ycombinator.com/companies/verdex
 Cumulus Labs,Performant serverless GPU inference,https://www.ycombinator.com/companies/cumulus-labs
 Tepali,AI-native operating system for medspas,https://www.ycombinator.com/companies/tepali
+Palus Finance,Better yields on idle cash for startups and SMBs,https://www.ycombinator.com/companies/palus-finance
 21st,Infrastructure and UI building blocks for the agentic internet,https://www.ycombinator.com/companies/21st
 Avoice,Harvey for Architecture,https://www.ycombinator.com/companies/avoice
 Kyten Technologies,American battery pack factory,https://www.ycombinator.com/companies/kyten-technologies
 ZeroSettle,Keep 30% More of Your Mobile App Revenue with Direct Billing,https://www.ycombinator.com/companies/zerosettle
-Carson,"more capable than Cowork, more secure than OpenClaw",https://www.ycombinator.com/companies/carson
+Carson,Carson is a desktop AI workspace that replaces MS Office with agents,https://www.ycombinator.com/companies/carson
 OpenSpec,Plan mode for complex features,https://www.ycombinator.com/companies/openspec
 Piris Labs,Cerebras-speed inference but scalable,https://www.ycombinator.com/companies/pirislabs
 CellType,The agentic drug company. We simulate human biology.,https://www.ycombinator.com/companies/celltype
@@ -195,6 +198,7 @@ Captain,Accurate knowledge search that scales,https://www.ycombinator.com/compan
 Agentic Fabriq,Okta for Agents.,https://www.ycombinator.com/companies/agentic-fabriq
 Travo,We use AI to collect and analyze real estate data,https://www.ycombinator.com/companies/travo
 Velum Labs,The OS for data quality across any stack,https://www.ycombinator.com/companies/velum-labs
+Alt-X,Automation for institutional-grade financial modeling in Excel,https://www.ycombinator.com/companies/alt-x
 Button Computer,Button is the wearable AI that can talk.,https://www.ycombinator.com/companies/button-computer
 Pollen,AI Agents for Customer Success,https://www.ycombinator.com/companies/pollen
 Autumn AI,Stalk your prospects at scale.,https://www.ycombinator.com/companies/autumn-ai
