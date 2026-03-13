@@ -3,15 +3,21 @@ Tsenta,"AI-Native, On-Device Job Automation",https://www.ycombinator.com/compani
 Indexable,sandbox infrastructure for AI agents,https://www.ycombinator.com/companies/indexable
 Arzana,AI automation for the manufacturing office,https://www.ycombinator.com/companies/arzana
 Datost,AI data analyst in Slack. Democratize data.,https://www.ycombinator.com/companies/datost
-Minicor,Run self-healing desktop automations at scale,https://www.ycombinator.com/companies/minicor
+Minicor,"Managed, self healing desktop automation at scale",https://www.ycombinator.com/companies/minicor
+Harbor,AI system-of-record for clinical trial data,https://www.ycombinator.com/companies/runharbor
 Lamina Labs,Fastest deterministic animation infrastructure for EdTech,https://www.ycombinator.com/companies/lamina-labs
-Arga Labs,The validation framework for AI agents,https://www.ycombinator.com/companies/arga-labs
+Arga Labs,The validation infrastructure for AI agents,https://www.ycombinator.com/companies/arga-labs
 qomplement,AI Agents for Document Filling,https://www.ycombinator.com/companies/qomplement
+Zolvo,AI that automates servicing for commercial lenders,https://www.ycombinator.com/companies/zolvo
+Replicas,Use background coding agents from anywhere,https://www.ycombinator.com/companies/replicas
+"Gikl, Inc",Accelerating scientific discovery with AI,https://www.ycombinator.com/companies/gikl-inc
 primitive,Communication for agents,https://www.ycombinator.com/companies/primitive
+Korso,The Intelligence Layer for Manufacturing.,https://www.ycombinator.com/companies/korso
 Dispatch,Satellites for manufacturing in space,https://www.ycombinator.com/companies/dispatch
 Superset,IDE for the AI Agents Era,https://www.ycombinator.com/companies/superset
 9 Mothers,AI weapon systems,https://www.ycombinator.com/companies/9-mothers-corporation
 Bujo AI,AI voice & chat agents for sales and customer support at large B2C…,https://www.ycombinator.com/companies/bujo
+Tidy,Does anything you can imagine with a text,https://www.ycombinator.com/companies/tidy
 Cardinal,AI Platform for Precision Outbound,https://www.ycombinator.com/companies/trycardinal-ai
 Wideframe,AI coworker for video editors,https://www.ycombinator.com/companies/wideframe
 Martini,Collaborative AI-native filmmaking for professionals,https://www.ycombinator.com/companies/martini
@@ -50,7 +56,7 @@ Squid,AI agents for power grid planning  🦑,https://www.ycombinator.com/compan
 Crow,Let users control your app through chat,https://www.ycombinator.com/companies/crow
 Scout Out,"Keeping contractors on the job site, not behind a desk.",https://www.ycombinator.com/companies/scout-out
 Booko,Dynamic pricing for businesses that sell time slots,https://www.ycombinator.com/companies/booko
-Corelayer,AI on-call engineer that debugs using data,https://www.ycombinator.com/companies/corelayer
+Corelayer,"AI on-call engineer for data-heavy, regulated industries",https://www.ycombinator.com/companies/corelayer
 General Legal,The AI native law firm for growth stage companies,https://www.ycombinator.com/companies/general-legal
 Fort,Strength Tracking Wearable,https://www.ycombinator.com/companies/fort
 Balance,Full-Stack AI Accounting,https://www.ycombinator.com/companies/getbalance
@@ -102,7 +108,7 @@ Pax Historia,The first AI-powered grand strategy platform,https://www.ycombinato
 Hex Security,Agentic Offensive Security at Scale,https://www.ycombinator.com/companies/hex-security
 Laurence,RL for performance marketing,https://www.ycombinator.com/companies/laurence
 Terminal Use,Vercel for background agents,https://www.ycombinator.com/companies/terminal-use
-Overshoot,Enable developers to build and run AI vision applications,https://www.ycombinator.com/companies/overshoot
+Overshoot,AI Infra for real-time vision applications,https://www.ycombinator.com/companies/overshoot
 Cajal,Scaling formal verification to accelerate scientific discovery,https://www.ycombinator.com/companies/cajal-technologies
 Proximitty,Autonomous business loan servicing,https://www.ycombinator.com/companies/proximitty
 Stilta,Agentic AI for patent attorneys,https://www.ycombinator.com/companies/stilta
@@ -110,7 +116,7 @@ Unisson,AI agents that automate B2B software implementation,https://www.ycombina
 IncidentFox,"AI SRE agent that triages, coordinates, and fixes production incidents",https://www.ycombinator.com/companies/brownie
 Compresr,LLM-native context compression,https://www.ycombinator.com/companies/compresr
 Opalite Health,Solving language barriers in healthcare,https://www.ycombinator.com/companies/opalite-health
-Confluence Labs,foundation models optimized for learning efficiency,https://www.ycombinator.com/companies/confluence-labs
+Confluence Labs,Foundation models optimized for learning efficiency,https://www.ycombinator.com/companies/confluence-labs
 Mango Medical,Agentic planning for orthopedic surgeries based on CT scans,https://www.ycombinator.com/companies/mango-medical-inc
 Sponge,Financial infrastructure for the agent economy,https://www.ycombinator.com/companies/sponge
 Terranox AI,AI-powered uranium exploration,https://www.ycombinator.com/companies/terranox-ai
@@ -162,13 +168,13 @@ Sentrial,Production Monitoring for AI Agents,https://www.ycombinator.com/compani
 10x Science,The AI-native platform for next-generation protein characterization.,https://www.ycombinator.com/companies/10x-science
 REV1,Claude code for Mechanical Engineers,https://www.ycombinator.com/companies/rev1
 shortkit,Short-form video SDK for consumer apps,https://www.ycombinator.com/companies/shortkit
-Asimov,Internet-scale marketplace for robot training data,https://www.ycombinator.com/companies/asimov
+Asimov,Real-world human movement data for humanoid robots,https://www.ycombinator.com/companies/asimov
 Lexius,AI for Corporate Security Cameras,https://www.ycombinator.com/companies/lexius
 Axis,An AI System for Institutional Trading Desks,https://www.ycombinator.com/companies/axis-2
 Sonarly,The AI that fixes prod autonomously,https://www.ycombinator.com/companies/sonarly
 Docura Health,AI-Native Medico-Legal Firm,https://www.ycombinator.com/companies/docura-health
-Lance,Your Hotel's Best Employees,https://www.ycombinator.com/companies/lance
-RunAnywhere,The production-grade infrastructure for running AI on every device,https://www.ycombinator.com/companies/runanywhere
+Lance,AI Agents That Run Hotel Operations.,https://www.ycombinator.com/companies/lance
+RunAnywhere,The production infra for running AI on the hardware people already own,https://www.ycombinator.com/companies/runanywhere
 Lucent,AI that automatically improves products from user behavior,https://www.ycombinator.com/companies/lucent
 Ruma Care,We help clinics get patients on biologics faster,https://www.ycombinator.com/companies/ruma-care
 Klaus AI,Fast and Safe OpenClaw on the cloud,https://www.ycombinator.com/companies/klaus-ai
@@ -203,11 +209,11 @@ Travo,The operating system for real estate,https://www.ycombinator.com/companies
 Velum Labs,The OS for data quality across any stack,https://www.ycombinator.com/companies/velum-labs
 Alt-X,Automation for institutional-grade financial modeling in Excel,https://www.ycombinator.com/companies/alt-x
 Button Computer,Button is the wearable AI that can talk.,https://www.ycombinator.com/companies/button-computer
-Pollen,AI Agents for Customer Success,https://www.ycombinator.com/companies/pollen
+Pollen,AI Agents That Automate Customer Success for Founders,https://www.ycombinator.com/companies/pollen
 Autumn AI,Stalk your prospects at scale.,https://www.ycombinator.com/companies/autumn-ai
 Overdrive Health,AI Powered Medical Billing,https://www.ycombinator.com/companies/overdrive-health
 Return Signals,AI customer support that proactively engages high-value users,https://www.ycombinator.com/companies/return-signals
-"Galactic Resource Utilization Space, Inc. (GRU Space)",Building the First Hotel on the Moon,https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space
+"Galactic Resource Utilization Space, Inc. (GRU Space)",Moon Hotel -> The Intergalactic Construction Company of Earth,https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space
 Bidflow,AI Copilot for Electrical Estimating,https://www.ycombinator.com/companies/bidflow
 Menza,Your 24/7 Data Analyst,https://www.ycombinator.com/companies/menza
 Q2Q,We help private equity teams find acquisition targets faster,https://www.ycombinator.com/companies/q2q
