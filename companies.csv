@@ -2,7 +2,9 @@ company,tagline,url
 Tsenta,"AI-Native, On-Device Job Automation",https://www.ycombinator.com/companies/tsenta
 Maquoketa Research,Intelligent one-way attack drones,https://www.ycombinator.com/companies/maquoketa-research
 Playabl.ai,Prompt-to-play AI game builder for everyone,https://www.ycombinator.com/companies/playablai
+Gigacatalyst,Turn every customer workflow into a native part of your SaaS with AI,https://www.ycombinator.com/companies/gigacatalyst
 Manicule,AI Native Technical Documentation Studio,https://www.ycombinator.com/companies/manicule
+Mochatrade,US stock perps for global traders,https://www.ycombinator.com/companies/mochatrade
 Asendia AI,Agentic recruitment platform,https://www.ycombinator.com/companies/asendia-ai
 Indexable,sandbox infrastructure for AI agents,https://www.ycombinator.com/companies/indexable
 Runtime,Let everyone in your org ship with coding agents,https://www.ycombinator.com/companies/runtime
@@ -14,6 +16,7 @@ TesterArmy,AI QA agent that tests code before it ships,https://www.ycombinator.c
 Foaster,We turn your company AI-native.,https://www.ycombinator.com/companies/foaster
 Saudara AI,AI-native Sourcing Agency,https://www.ycombinator.com/companies/saudara-ai
 BioStack Platforms,Real world training envs for healthcare AI models,https://www.ycombinator.com/companies/biostack-platforms
+Ara,personal ai cloud computing for everyone,https://www.ycombinator.com/companies/ara
 Datost,AI data analyst in Slack. Democratize data.,https://www.ycombinator.com/companies/datost
 Minicor,"Managed, self healing desktop automation at scale",https://www.ycombinator.com/companies/minicor
 Harbor,AI system-of-record for clinical trial data,https://www.ycombinator.com/companies/runharbor
@@ -21,23 +24,27 @@ Complir,Vanta for physical products,https://www.ycombinator.com/companies/compli
 AICE Power,Smart energy monitoring for buildings.,https://www.ycombinator.com/companies/aice-power
 Alchemy,AI-powered image analysis for life sciences,https://www.ycombinator.com/companies/alchemyai
 Prototyping.io,AI-native mechanical manufacturing platform,https://www.ycombinator.com/companies/prototypingio
+Lumius,"Fast, smart, accessible 3D ultrasound for everyone",https://www.ycombinator.com/companies/lumius
 Adialante,Cancer screening without barriers,https://www.ycombinator.com/companies/adialante
 Keyframe Labs,Turn agents into lifelike video calls. $0.06 a minute.,https://www.ycombinator.com/companies/keyframe-labs
 Benchspan,"Run agent benchmarks in minutes, not hours",https://www.ycombinator.com/companies/benchspan
 Ontora,We help managers regain control of their organisations,https://www.ycombinator.com/companies/ontora
 Gojiberry AI,GTM Brain for small sales teams,https://www.ycombinator.com/companies/gojiberry-ai
-Lamina Labs,Fastest deterministic animation infrastructure for EdTech,https://www.ycombinator.com/companies/lamina-labs
+Lab0,Automated forward-deployed engineers (AI FDEs),https://www.ycombinator.com/companies/lab0
+Lamina Labs,Visual infrastructure for EdTech AI applications,https://www.ycombinator.com/companies/lamina-labs
 Kimpton AI,The IDE for investors,https://www.ycombinator.com/companies/kimpton-ai
 StableBrowse,Browser for AI agents,https://www.ycombinator.com/companies/stablebrowse
 Callab AI,AI-voice agents for any telephony stack.,https://www.ycombinator.com/companies/callab-ai
 Arga Labs,The validation infrastructure for AI agents,https://www.ycombinator.com/companies/arga-labs
 Sherpa,Turn more website visitors into customers,https://www.ycombinator.com/companies/sherpa
+Userlens,AI agents that predicts churn months before it happens.,https://www.ycombinator.com/companies/userlens
 Standout,The Hollywood agent for startup talent,https://www.ycombinator.com/companies/standout
 qomplement,AI Agents for Document Filling,https://www.ycombinator.com/companies/qomplement
 Interfaze,AI model built for deterministic developer tasks,https://www.ycombinator.com/companies/interfaze
 Zolvo,AI that automates servicing for commercial lenders,https://www.ycombinator.com/companies/zolvo
 Kinro,AI sales agents for insurance. Sell everywhere your buyers are.,https://www.ycombinator.com/companies/kinro
 Hub.xyz,API for real-world training data.,https://www.ycombinator.com/companies/hubxyz
+Tenet Industries,Drones as ammunition.,https://www.ycombinator.com/companies/tenet-industries
 RefortifAI,Secure Deployment & DRM for AI model providers,https://www.ycombinator.com/companies/refortifai
 InLoop Robotics,Deploying robots that ask for help!,https://www.ycombinator.com/companies/inloop-robotics
 Andustry,AI to source and sell industrial products,https://www.ycombinator.com/companies/andustry
@@ -47,6 +54,7 @@ Replicas,Background coding agents for engineering teams,https://www.ycombinator.
 Totalis,derivative layer for prediction markets,https://www.ycombinator.com/companies/totalis
 "Gikl, Inc",Accelerating scientific discovery with AI,https://www.ycombinator.com/companies/gikl-inc
 Stage,Code review platform for today’s engineers,https://www.ycombinator.com/companies/stage
+Standard Signal,Hedge fund where AI researches and executes every trade,https://www.ycombinator.com/companies/standard-signal
 primitive,Communication for agents,https://www.ycombinator.com/companies/primitive
 Korso,The Intelligence Layer for Manufacturing.,https://www.ycombinator.com/companies/korso
 Dispatch,Satellites for manufacturing in space,https://www.ycombinator.com/companies/dispatch
@@ -54,6 +62,7 @@ Superset,IDE for the AI Agents Era,https://www.ycombinator.com/companies/superse
 Sazabi,The AI-native observability platform for fast-moving engineering teams,https://www.ycombinator.com/companies/sazabi
 9 Mothers,AI weapon systems,https://www.ycombinator.com/companies/9-mothers-corporation
 Bujo AI,AI voice & chat agents for sales and customer support at large B2C…,https://www.ycombinator.com/companies/bujo
+noetic,"AI that gets hardware compliance done in weeks, not months.",https://www.ycombinator.com/companies/noetic
 Clara,AI primary care doctor,https://www.ycombinator.com/companies/clara-2
 HireGlide,AI-native recruiting agency,https://www.ycombinator.com/companies/hireglide
 Cardinal,AI Platform for Precision Outbound,https://www.ycombinator.com/companies/trycardinal-ai
@@ -202,7 +211,6 @@ Strand AI,Multimodal foundation models to predict uncollected patient biology,ht
 Clam,Self-fixing automations for fast-moving startups built on OpenClaw,https://www.ycombinator.com/companies/clam
 Protent,Protent turns passive surveillance into proactive intelligence.,https://www.ycombinator.com/companies/protent
 Cofia,AI automations that write themselves,https://www.ycombinator.com/companies/cofia
-noetic,"AI that gets hardware compliance done in weeks, not months.",https://www.ycombinator.com/companies/noetic
 LegalOS,The AI-Native Immigration Law Firm,https://www.ycombinator.com/companies/legalos
 Sentrial,Datadog for Agent Reliability,https://www.ycombinator.com/companies/sentrial
 10x Science,The AI-native platform for next-generation protein characterization.,https://www.ycombinator.com/companies/10x-science
