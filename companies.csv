@@ -1,5 +1,6 @@
 company,tagline,url
 Tsenta,We match you with jobs and apply automatically,https://www.ycombinator.com/companies/tsenta
+Archal,The eval platform for autonomous software,https://www.ycombinator.com/companies/archal
 Cohesion,Your public equities agentic teammate,https://www.ycombinator.com/companies/cohesion
 Maquoketa Research,Intelligent one-way attack drones,https://www.ycombinator.com/companies/maquoketa-research
 Framewise Health,AI-personalized patient recovery videos,https://www.ycombinator.com/companies/framewise-health
@@ -55,6 +56,7 @@ Taiga,Full-stack Medical Billing Services,https://www.ycombinator.com/companies/
 Pairio,AI-native industrial maintenance software,https://www.ycombinator.com/companies/pairio
 Callab AI,AI voice agents for on-prem PBX stacks.,https://www.ycombinator.com/companies/callab-ai
 Arga Labs,The validation infrastructure for AI agents,https://www.ycombinator.com/companies/arga-labs
+RentAHuman,Marketplace for AI agents to hire humans.,https://www.ycombinator.com/companies/rentahuman
 Salesgraph,the context layer for fast moving sales teams,https://www.ycombinator.com/companies/salesgraph
 Sherpa,Turn more website visitors into customers,https://www.ycombinator.com/companies/sherpa
 Userlens,AI agents that predicts churn months before it happens.,https://www.ycombinator.com/companies/userlens
@@ -63,6 +65,7 @@ qomplement,AI Agents for Document Filling,https://www.ycombinator.com/companies/
 Elyra,AI Systems for Restaurants,https://www.ycombinator.com/companies/elyra
 Interfaze,AI model built for deterministic developer tasks,https://www.ycombinator.com/companies/interfaze
 Zolvo,AI that automates servicing for commercial lenders,https://www.ycombinator.com/companies/zolvo
+Juno,AI Health Assistant for Chronic Illness,https://www.ycombinator.com/companies/juno-chat
 Kinro,AI sales agents for insurance. Sell everywhere your buyers are.,https://www.ycombinator.com/companies/kinro
 Pulsent,"AI Agents that watch, engage and convert your users.",https://www.ycombinator.com/companies/pulsent
 Hub.xyz,API for real-world training data.,https://www.ycombinator.com/companies/hubxyz
@@ -196,7 +199,7 @@ Unisson,AI agents that automate B2B software implementation,https://www.ycombina
 IncidentFox,"AI SRE agent that triages, coordinates, and fixes production incidents",https://www.ycombinator.com/companies/brownie
 Compresr,LLM context compression for better accuracy,https://www.ycombinator.com/companies/compresr
 Opalite Health,Helping Healthcare Providers Speak Any Language,https://www.ycombinator.com/companies/opalite-health
-Confluence Labs,AI systems optimized for learning efficiency,https://www.ycombinator.com/companies/confluence-labs
+Confluence Labs,AI models that learn from experience,https://www.ycombinator.com/companies/confluence-labs
 Mango Medical,Foundation models for planning orthopedic surgery,https://www.ycombinator.com/companies/mango-medical-inc
 Sponge,Financial infrastructure for the agent economy,https://www.ycombinator.com/companies/sponge
 Terranox AI,The first AI-powered uranium discovery company,https://www.ycombinator.com/companies/terranox-ai
