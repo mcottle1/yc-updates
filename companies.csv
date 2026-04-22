@@ -1,6 +1,7 @@
 company,tagline,url
 Tsenta,We match you with jobs and apply automatically,https://www.ycombinator.com/companies/tsenta
 Archal,The eval platform for autonomous software,https://www.ycombinator.com/companies/archal
+Huscarl,Actuarial intelligence for corporate risk managers,https://www.ycombinator.com/companies/huscarl
 Cohesion,Your public equities agentic teammate,https://www.ycombinator.com/companies/cohesion
 Maquoketa Research,Intelligent one-way attack drones,https://www.ycombinator.com/companies/maquoketa-research
 Framewise Health,AI-personalized patient recovery videos,https://www.ycombinator.com/companies/framewise-health
@@ -22,7 +23,7 @@ OpenWork,The open source alternative to Claude Cowork,https://www.ycombinator.co
 Aster,The First AI-Native AI Research Lab,https://www.ycombinator.com/companies/asterlab
 Amboras,Let AI sell your stuff on autopilot,https://www.ycombinator.com/companies/amboras
 TesterArmy,"Test your app with AI, catch bugs before users do",https://www.ycombinator.com/companies/testerarmy
-Eden,Autonomous services for humanity.,https://www.ycombinator.com/companies/edenrobotics
+Eden Robotics,Autonomous services for humanity.,https://www.ycombinator.com/companies/eden-robotics
 Foaster,Your AI-native partner for AI transformation.,https://www.ycombinator.com/companies/foaster
 Saudara AI,AI-native Sourcing Agency,https://www.ycombinator.com/companies/saudara-ai
 Silmaril,Prompt injection defense that is self-healing,https://www.ycombinator.com/companies/silmaril
@@ -40,17 +41,16 @@ AICE Power,Smart energy monitoring for buildings.,https://www.ycombinator.com/co
 Mount,Insure and secure your AI Agents,https://www.ycombinator.com/companies/mount
 Alchemy,AI-powered image analysis for life sciences,https://www.ycombinator.com/companies/alchemyai
 Sidekick,AI-powered SMS assistant for deskless workers.,https://www.ycombinator.com/companies/textsidekick
-Prototyping.io,AI-native mechanical manufacturing,https://www.ycombinator.com/companies/prototypingio
 Lumius,"Fast, smart, accessible 3D ultrasound for everyone",https://www.ycombinator.com/companies/lumius
 Adialante,Cancer screening without barriers,https://www.ycombinator.com/companies/adialante
 Keyframe Labs,Turn agents into lifelike video calls. $0.06 a minute.,https://www.ycombinator.com/companies/keyframe-labs
 Benchspan,Real-time threat detection for AI agents in production,https://www.ycombinator.com/companies/benchspan
-Ontora,We help managers regain control of their organisations,https://www.ycombinator.com/companies/ontora
-Paper Star,"Building Napkin Math, AI-powered food journaling for real people",https://www.ycombinator.com/companies/paper-star
+Ontora,AI agents that interview every employee in 24 hours to map how work…,https://www.ycombinator.com/companies/ontora
+Napkin Math,"Building Napkin Math, AI-powered food journaling for real people",https://www.ycombinator.com/companies/napkin-math
 Gojiberry AI,GTM Brain for small sales teams,https://www.ycombinator.com/companies/gojiberry-ai
 Lab0,Automated forward-deployed engineers (AI FDEs),https://www.ycombinator.com/companies/lab0
 Lamina Labs,Visual infrastructure for EdTech AI applications,https://www.ycombinator.com/companies/lamina-labs
-Kimpton AI,The IDE for investors,https://www.ycombinator.com/companies/kimpton-ai
+Kimpton AI,AI for portfolio managers,https://www.ycombinator.com/companies/kimpton-ai
 StableBrowse,Browser for AI agents,https://www.ycombinator.com/companies/stablebrowse
 Taiga,Full-stack Medical Billing Services,https://www.ycombinator.com/companies/taiga
 Pairio,AI-native industrial maintenance software,https://www.ycombinator.com/companies/pairio
@@ -62,16 +62,17 @@ Sherpa,Turn more website visitors into customers,https://www.ycombinator.com/com
 Userlens,AI agents that predicts churn months before it happens.,https://www.ycombinator.com/companies/userlens
 Standout,The Hollywood agent for startup talent,https://www.ycombinator.com/companies/standout
 qomplement,AI Agents for Document Filling,https://www.ycombinator.com/companies/qomplement
-Elyra,AI Systems for Restaurants,https://www.ycombinator.com/companies/elyra
+Elyra,AI for Restaurant Reservations,https://www.ycombinator.com/companies/elyra
 Interfaze,AI model built for deterministic developer tasks,https://www.ycombinator.com/companies/interfaze
 Zolvo,AI that automates servicing for commercial lenders,https://www.ycombinator.com/companies/zolvo
 Juno,AI Health Assistant for Chronic Illness,https://www.ycombinator.com/companies/juno-chat
 Kinro,AI sales agents for insurance. Sell everywhere your buyers are.,https://www.ycombinator.com/companies/kinro
+GovGuard,AI Infrastructure for Government Agencies,https://www.ycombinator.com/companies/govguard
 Pulsent,"AI Agents that watch, engage and convert your users.",https://www.ycombinator.com/companies/pulsent
 Hub.xyz,API for real-world training data.,https://www.ycombinator.com/companies/hubxyz
 Tenet Industries,Drones as ammunition.,https://www.ycombinator.com/companies/tenet-industries
 Refortifai,Runtime security for AI agents,https://www.ycombinator.com/companies/refortifai
-trellis,Autonomous Agents for Short Term Rentals,https://www.ycombinator.com/companies/trellistech
+Trellis,Autonomous Agents for Short Term Rentals,https://www.ycombinator.com/companies/trellistech
 Dayjob,AI Agents for Industrial Logistics,https://www.ycombinator.com/companies/dayjob
 InLoop Robotics,Deploying robots that ask for help!,https://www.ycombinator.com/companies/inloop-robotics
 Andustry,AI to source and sell industrial products,https://www.ycombinator.com/companies/andustry
@@ -249,7 +250,7 @@ LegalOS,The AI-Native Immigration Law Firm,https://www.ycombinator.com/companies
 Sentrial,Datadog for Agent Reliability,https://www.ycombinator.com/companies/sentrial
 10x Science,The AI-native platform for next-generation protein characterization.,https://www.ycombinator.com/companies/10x-science
 REV1,Claude Code for Mechanical Engineers,https://www.ycombinator.com/companies/rev1
-shortkit,Short-form video infra for consumer apps,https://www.ycombinator.com/companies/shortkit
+shortkit,Media infra for consumer apps,https://www.ycombinator.com/companies/shortkit
 Asimov,Real-world human movement data for humanoid robots,https://www.ycombinator.com/companies/asimov
 Lexius,AI for Corporate Security Cameras,https://www.ycombinator.com/companies/lexius
 Axis,An AI Copilot for Trading Desks,https://www.ycombinator.com/companies/axis-2
