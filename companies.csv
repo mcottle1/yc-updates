@@ -2,6 +2,7 @@ company,tagline,url
 Rote,AI-native insurance department for auto body shops,https://www.ycombinator.com/companies/rote
 Forward,Unifying Global Private Credit,https://www.ycombinator.com/companies/useforward
 Qokedas,Teaching models to decode the physical world,https://www.ycombinator.com/companies/qokedas
+herdr,building the open agent runtime,https://www.ycombinator.com/companies/herdr
 Lambda Robotics,Robotics for AI Infrastructure,https://www.ycombinator.com/companies/lambda-robotics
 Simantic,Firmware simulation for AI agents,https://www.ycombinator.com/companies/simantic
 RightNow,Enabling Model-Hardware Co-Design at Scale,https://www.ycombinator.com/companies/rightnow
@@ -52,6 +53,7 @@ Axelrod,Boutique Hotels that run themselves,https://www.ycombinator.com/companie
 Levocred AI,AI for every workflow inside a credit team,https://www.ycombinator.com/companies/levocred-ai
 Praxis AI,Turns every company into a data vendor,https://www.ycombinator.com/companies/praxis-ai-2
 Care GP,AI agents to run primary healthcare operations,https://www.ycombinator.com/companies/care-gp
+Radley,"AI-native, full-stack radiology practice",https://www.ycombinator.com/companies/radley
 Agnost AI,Product analytics for teams building conversational agents,https://www.ycombinator.com/companies/agnost-ai
 Agentcard,debit cards for AI agents.,https://www.ycombinator.com/companies/agentcard
 ProvenMetal,"Fast-turn, American made PCBs",https://www.ycombinator.com/companies/provenmetal
@@ -74,9 +76,11 @@ Ultrasonium,"Manufacturing the metal parts the world runs on faster, cheaper, sa
 Arbital,"The trading terminal for perps, memes, and stocks.",https://www.ycombinator.com/companies/arbital
 PokerClubHub,Host a Poker Club and Make Money,https://www.ycombinator.com/companies/pokerclubhub
 Neuron Industries,Industrial Controllers built for AI,https://www.ycombinator.com/companies/neuron-industries
+Neuromorphic,Building embodiment agnostic robot brains.,https://www.ycombinator.com/companies/neuromorphic
 LATO,Agent-native research and simulation platform for investors,https://www.ycombinator.com/companies/lato
 Risklytics,Commercial Insurance Brokerage for Frontier Tech,https://www.ycombinator.com/companies/risklytics
 Daqstra,AI-native orchestration for physical R&D testing,https://www.ycombinator.com/companies/daqstra
+Qlo,AI that automates underwriting for commercial insurance carriers,https://www.ycombinator.com/companies/qlo
 Fabraix,The world's frontier hacker for AI agents.,https://www.ycombinator.com/companies/fabraix
 Omanta,A research lab for one,https://www.ycombinator.com/companies/omanta
 Rational,AI Employees for Accounting,https://www.ycombinator.com/companies/rational
@@ -109,11 +113,13 @@ Manifold,"Low-cost, deployment-ready robotic labor for warehouses",https://www.y
 screenpipe,"AI powered by everything you've seen, said or heard",https://www.ycombinator.com/companies/screenpipe
 Zaplar,Agentic Hotel Operating System,https://www.ycombinator.com/companies/zaplar
 Touchmark,Market for future inference capacity,https://www.ycombinator.com/companies/touchmark
+Exosat,Building a sovereign Starlink,https://www.ycombinator.com/companies/exosat
 Codag,Log compression for agents.,https://www.ycombinator.com/companies/codag
 Context.dev,We give AI agents realtime web context.,https://www.ycombinator.com/companies/contextdev
 Glen,Unified organizational context for agents and humans,https://www.ycombinator.com/companies/glen
 Stoa,The market behind AI hardware.,https://www.ycombinator.com/companies/stoa
 Marble,The autonomous back-of-house for restaurants.,https://www.ycombinator.com/companies/joinmarble
+Audun,AI-native debt collection,https://www.ycombinator.com/companies/audun
 COACH,The AI Coach for in person sales reps.,https://www.ycombinator.com/companies/ai-coach
 Alloovium,Construction paperwork that finally works for your team,https://www.ycombinator.com/companies/alloovium
 Dialogus,Infra for enterprise voice agents.,https://www.ycombinator.com/companies/dialogus
@@ -138,7 +144,7 @@ Prized,Lovable for internal tools,https://www.ycombinator.com/companies/prized
 Maingen,RL environments for industrial operations,https://www.ycombinator.com/companies/maingen
 Rex,AI Operations Partner for Enterprise Order to Cash,https://www.ycombinator.com/companies/rex-inc
 Zomma,Computer Use Agents for back offices in finance,https://www.ycombinator.com/companies/zomma
-Nebula Security,A security engineer in your team,https://www.ycombinator.com/companies/nebula-security
+Nebula Security,Building Mythos for everyone,https://www.ycombinator.com/companies/nebula-security
 Kara,Making diamond an engineering material,https://www.ycombinator.com/companies/kara
 Trope,The AI-native ERP system integrator,https://www.ycombinator.com/companies/trope
 Parasma,Training human brain cells for AI compute,https://www.ycombinator.com/companies/parasma
@@ -160,7 +166,7 @@ Rindler,The translation layer between AI agents and the web,https://www.ycombina
 Proprio Robotics,Building autonomous data centers,https://www.ycombinator.com/companies/proprio-robotics
 Amorphic Labs,"Agentic, Personalized Product Demo Videos for Sales",https://www.ycombinator.com/companies/amorphic-labs
 rekursiv.ai,Scale AI scientists whose own breakthroughs accelerate the next.,https://www.ycombinator.com/companies/rekursivai
-Trident,Your AI Security Team,https://www.ycombinator.com/companies/trident
+Trident,Agents that find real exploitable vulnerabilities in your company,https://www.ycombinator.com/companies/trident
 Atlas Discovery,Predicting human response to drugs in clinical trials,https://www.ycombinator.com/companies/atlas-discovery
 Sidekick,AI agent that handles frontline operations over text,https://www.ycombinator.com/companies/textsidekick
 Palette,An AI-Native Media Platform,https://www.ycombinator.com/companies/palette-2
