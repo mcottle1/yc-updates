@@ -1,5 +1,7 @@
 company,tagline,url
 Rote,AI-native insurance department for auto body shops,https://www.ycombinator.com/companies/rote
+Vorelios,AI that simulates physics 1000x faster,https://www.ycombinator.com/companies/vorelios
+twentyfour26,On Demand CNC Prototyping,https://www.ycombinator.com/companies/twentyfour26
 Forward,Unifying Global Private Credit,https://www.ycombinator.com/companies/useforward
 Qokedas,Teaching models to decode the physical world,https://www.ycombinator.com/companies/qokedas
 herdr,building the open agent runtime,https://www.ycombinator.com/companies/herdr
@@ -39,6 +41,7 @@ Hop Aero,Rocket cargo delivery to contested environments,https://www.ycombinator
 Agent FM,One group chat to hear and steer your coding agents.,https://www.ycombinator.com/companies/agent-fm
 OpenRelay,"Distributed, hardware-agnostic AI inference",https://www.ycombinator.com/companies/openrelay
 Dock,Multiplayer agent workspace to run your company,https://www.ycombinator.com/companies/dock
+Verdict Machine,AI cybersecurity for financial institutions' digital assets,https://www.ycombinator.com/companies/verdict-machine
 HyperProbe,Your coding agent writes code. Now let it fix prod too.,https://www.ycombinator.com/companies/hyperprobe
 Grip,Physical AI for waste management,https://www.ycombinator.com/companies/grip
 Skymerse,Autopilot for Flight Operations,https://www.ycombinator.com/companies/skymerse
@@ -60,7 +63,7 @@ Agnost AI,Product analytics for AI Agents,https://www.ycombinator.com/companies/
 Agentcard,debit cards for AI agents.,https://www.ycombinator.com/companies/agentcard
 ProvenMetal,"Fast-turn, American made PCBs",https://www.ycombinator.com/companies/provenmetal
 Gamgee,Scalable Personalised Cancer Treatment,https://www.ycombinator.com/companies/gamgee
-Inkbox,"Give your AI agents email, phone, iMessage and an internet address",https://www.ycombinator.com/companies/inkbox
+Inkbox,"Let your agents communicate via email, phone, iMessage, & Agent2Agent",https://www.ycombinator.com/companies/inkbox
 Operon,Agentic data layer for manufacturing & process industries.,https://www.ycombinator.com/companies/operon
 Cosmic Robotics,Autonomous construction on Earth and beyond,https://www.ycombinator.com/companies/cosmic-robotics
 Markov,Data for computer-use ai,https://www.ycombinator.com/companies/markov
@@ -69,8 +72,9 @@ Marengo,"Automating engineering design, starting with data centers.",https://www
 RonanRx Inc.,We use AI to personalize peptides to your biology,https://www.ycombinator.com/companies/ronanrx-inc
 Executor,The open source integration management layer for AI.,https://www.ycombinator.com/companies/executor
 Last Accounting Company,Agent-native accounting firm.,https://www.ycombinator.com/companies/last-accounting-company
-Pacific,Micro data centers for the harshest places on Earth and in space.,https://www.ycombinator.com/companies/pacific
+Pacific,Mass-producing and deploying micro data centers for Earth and Space,https://www.ycombinator.com/companies/pacific
 Luca IQ,API First Tax Calculator for CPAs,https://www.ycombinator.com/companies/luca-iq
+Financial Datasets,Connect your agent to the stock market,https://www.ycombinator.com/companies/financial-datasets
 Computable,"Buy, sell, and redeem GPU hours for any week with instant liquidity",https://www.ycombinator.com/companies/computable
 Denta,The dental practice that runs itself,https://www.ycombinator.com/companies/denta
 Isengard Industries Inc,Mass-produced AI strike systems and Counter-UAS,https://www.ycombinator.com/companies/isengard-industries-inc
@@ -199,6 +203,7 @@ Rapidfolio,AI for fintechs & banks,https://www.ycombinator.com/companies/rapidfo
 "Prescience, Inc.",Healthcare for the age of abundant intelligence.,https://www.ycombinator.com/companies/prescience-inc
 TrustAI,Continuous compliance and governance for agents on sensitive systems,https://www.ycombinator.com/companies/trustai
 Waddle Labs,Agents for robotics control.,https://www.ycombinator.com/companies/waddle-labs
+Tensr,Fully autonomous robotic factories,https://www.ycombinator.com/companies/tensr
 OS3,Intelligence and Machines for Physical Labor,https://www.ycombinator.com/companies/os3
 Induction Labs,Building intellectually curious AI,https://www.ycombinator.com/companies/induction-labs
 Async,Transforming small businesses with AI agents,https://www.ycombinator.com/companies/withasync
