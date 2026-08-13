@@ -18,6 +18,7 @@ Experiential Labs,Turn your AI spend into a cheaper + better model you own,https
 Edviro,Energy world models that fix energy waste before it becomes expensive.,https://www.ycombinator.com/companies/edviro
 Coasty,The computer-use agent that doesn't break on real software. We will…,https://www.ycombinator.com/companies/coasty
 Caution,Hosting platform for software you don't want to get hacked,https://www.ycombinator.com/companies/caution
+Magma,Monetize your agent's traces.,https://www.ycombinator.com/companies/magma
 Atomarine,Off shore nuclear powered data centers at sea.,https://www.ycombinator.com/companies/atomarine
 Billow AI Labs,AI-native Accounting Firm to Replace the Big-4,https://www.ycombinator.com/companies/billow-ai-labs
 hardware intelligence,AI tools for the chips your AI runs on,https://www.ycombinator.com/companies/hardware-intelligence
@@ -26,7 +27,7 @@ Salem Robotics Inc,"Deploying robots for inspections in hazardous spaces, like n
 Robocurve,Evaluating robots in the real world.,https://www.ycombinator.com/companies/robocurve
 hiloop,Infrastructure for recursive self-improvement,https://www.ycombinator.com/companies/hiloop
 Dawn Industries,Automatic Diagnosis & Fix for Industrial Automation Cells,https://www.ycombinator.com/companies/dawn-industries
-Nex,Claude Cowork for GTM Automations,https://www.ycombinator.com/companies/nex
+Nex,"Claude Cowork using any AI model, starting with GTM agents",https://www.ycombinator.com/companies/nex
 OneCLI,The Identity Gateway for AI Agents,https://www.ycombinator.com/companies/onecli
 Wondering,"Duolingo for learning anything, but 10x better",https://www.ycombinator.com/companies/wondering
 Tracer,Combining open-source AI models for better answers at lower cost,https://www.ycombinator.com/companies/tracer
@@ -39,11 +40,13 @@ Locke,Builders of the first AI-native government affairs firm.,https://www.ycomb
 Florin,Florin is the insurance carrier with zero underwriters,https://www.ycombinator.com/companies/florin
 Earendil Robotics,Drone swarm defence at a small-unit level,https://www.ycombinator.com/companies/earendil-robotics
 Hebbian Robotics,APIs for searching and analyzing Physical AI data at scale,https://www.ycombinator.com/companies/hebbian-robotics
+PRINCEPS,AI-native insurance company for the compute economy,https://www.ycombinator.com/companies/princeps
 Hop Aero,Rocket cargo delivery to contested environments,https://www.ycombinator.com/companies/hop-aero
 Agent FM,One group chat to hear and steer your coding agents.,https://www.ycombinator.com/companies/agent-fm
 OpenRelay,"Distributed, hardware-agnostic AI inference",https://www.ycombinator.com/companies/openrelay
 Dock,Multiplayer agent workspace to run your company,https://www.ycombinator.com/companies/dock
 Verdict Machine,AI cybersecurity for financial institutions' digital assets,https://www.ycombinator.com/companies/verdict-machine
+TovenAI,AI agents for compliance at institutional trading firms,https://www.ycombinator.com/companies/tovenai
 HyperProbe,Your coding agent writes code. Now let it fix prod too.,https://www.ycombinator.com/companies/hyperprobe
 Grip,Physical AI for waste management,https://www.ycombinator.com/companies/grip
 Skymerse,Autopilot for Flight Operations,https://www.ycombinator.com/companies/skymerse
@@ -55,6 +58,7 @@ Lamb Labs,World's fastest AI models,https://www.ycombinator.com/companies/lamb-l
 Shiraz AI,Robots that learn on the job,https://www.ycombinator.com/companies/shiraz-ai
 Mireye,Infrastructure for Physical World AI Agents,https://www.ycombinator.com/companies/mireye
 Derya,AI-Native Logistics Office,https://www.ycombinator.com/companies/derya
+Pennant,The Corporate Governance OS for Public Markets,https://www.ycombinator.com/companies/pennant
 Decawork,The Agent Control Plane for IT teams,https://www.ycombinator.com/companies/decawork
 CarSignal,The Smart Operating System for Auto Shops.,https://www.ycombinator.com/companies/carsignal
 Axelrod,Boutique Hotels that run themselves,https://www.ycombinator.com/companies/axelrod
@@ -70,13 +74,14 @@ Inkbox,"Let your agents communicate via email, phone, iMessage, & Agent2Agent",h
 Operon,Agentic data layer for manufacturing & process industries.,https://www.ycombinator.com/companies/operon
 Cosmic Robotics,Autonomous construction on Earth and beyond,https://www.ycombinator.com/companies/cosmic-robotics
 Markov,Data for computer-use ai,https://www.ycombinator.com/companies/markov
+Familiar,World Models for Accurate Humans.,https://www.ycombinator.com/companies/familiar
 Lumeria,Oura Ring for Skin.,https://www.ycombinator.com/companies/lumeria
 Marengo,"Automating engineering design, starting with data centers.",https://www.ycombinator.com/companies/marengo
 RonanRx Inc.,We use AI to personalize peptides to your biology,https://www.ycombinator.com/companies/ronanrx-inc
 Executor,The open source integration management layer for AI.,https://www.ycombinator.com/companies/executor
 Last Accounting Company,Agent-native accounting firm.,https://www.ycombinator.com/companies/last-accounting-company
 Pacific,Mass-producing and deploying micro data centers for Earth and Space,https://www.ycombinator.com/companies/pacific
-Luca IQ,API First Tax Calculator for CPAs,https://www.ycombinator.com/companies/luca-iq
+Luca IQ,API First Tax Engine for CPAs,https://www.ycombinator.com/companies/luca-iq
 Financial Datasets,Connect your agent to the stock market,https://www.ycombinator.com/companies/financial-datasets
 TryNearby,Local creators for local businesses,https://www.ycombinator.com/companies/trynearby
 Computable,"Buy, sell, and redeem GPU hours for any week with instant liquidity",https://www.ycombinator.com/companies/computable
@@ -107,8 +112,8 @@ Almanac,The AI that knows your company,https://www.ycombinator.com/companies/alm
 TareBio,Vaccines for any cancer or infection in weeks.,https://www.ycombinator.com/companies/tarebio
 Greypoint Industries,Manufacturing the future of autonomous swarm warfare.,https://www.ycombinator.com/companies/greypoint-industries
 Graphify Labs,On-device knowledge graph engine for enterprises,https://www.ycombinator.com/companies/graphify-labs
-Ooak Data,We build the world's largest library of real-world business workflow…,https://www.ycombinator.com/companies/ooak-data
-Nori,Affordable robot you can teach to do anything,https://www.ycombinator.com/companies/noril1
+Ooak Data,We turn company data into RL environnements.,https://www.ycombinator.com/companies/ooak-data
+Nori,sub-2000$ humanoid robot you can teach to do anything,https://www.ycombinator.com/companies/noril1
 6thSense,A nervous system for physical AI,https://www.ycombinator.com/companies/6thsense
 Bloomy,AI-powered mastery learning for K-12,https://www.ycombinator.com/companies/bloomy
 machine0,Cloud computers for AI agents,https://www.ycombinator.com/companies/machine0
@@ -138,11 +143,13 @@ Stoa,The market behind AI hardware.,https://www.ycombinator.com/companies/stoa
 Marble,The autonomous back-of-house for restaurants.,https://www.ycombinator.com/companies/joinmarble
 Audun,AI-native debt collection,https://www.ycombinator.com/companies/audun
 COACH,The AI Coach for in person sales reps.,https://www.ycombinator.com/companies/ai-coach
+DeepReach Inc.,Real-world data network for robots & world models,https://www.ycombinator.com/companies/deepreach-inc
+MOCHI.TV,1 Minute Anime,https://www.ycombinator.com/companies/mochitv
 Alloovium,Construction paperwork that finally works for your team,https://www.ycombinator.com/companies/alloovium
 Dialogus,Infra for enterprise voice agents.,https://www.ycombinator.com/companies/dialogus
 Mosaic,Defining the frontier of multiplayer AI.,https://www.ycombinator.com/companies/mosaic-inc
 Bizmark,"The OS for companies that make, move, or sell physical goods",https://www.ycombinator.com/companies/bizmark
-Riften,Earned Intelligence for every company.,https://www.ycombinator.com/companies/riften
+Riften,"Cut LLM spend, then post-train owned models from production traffic.",https://www.ycombinator.com/companies/riften
 Buildbox,Understand how users experience your AI agents,https://www.ycombinator.com/companies/buildbox
 RealPact,AI-native OS for Real Estate Brokerages,https://www.ycombinator.com/companies/realpact
 GUILD,Making aerospace parts faster and cheaper for defense,https://www.ycombinator.com/companies/guild
@@ -153,7 +160,7 @@ Verdant,AI-native land-use permit management for local gov,https://www.ycombinat
 IMPACT Drones,Air Defense as a Service for Civilian Infrastructure.,https://www.ycombinator.com/companies/impact-drones
 Insurf,The AI-Native Decision Infrastructure for Health Insurance,https://www.ycombinator.com/companies/insurf
 Jcode,"20x more coding agents, 20x more productivity",https://www.ycombinator.com/companies/jcode
-LemonLime,No-code AI that learns your business and self-creates automations.,https://www.ycombinator.com/companies/lemonlime
+LemonLime,Fully automated GTM for small business,https://www.ycombinator.com/companies/lemonlime
 Gutgutgoose,"Personalized probiotics, guaranteed to colonize.",https://www.ycombinator.com/companies/gutgutgoose
 Speko,OpenRouter for voice AI,https://www.ycombinator.com/companies/speko
 Synapse Semiconductor,Collapsing the edge AI vision hardware stack into one wafer,https://www.ycombinator.com/companies/synapse-semiconductor
@@ -188,6 +195,7 @@ Amorphic Labs,"Agentic, Personalized Product Demo Videos for Sales",https://www.
 rekursiv.ai,Scale AI scientists whose own breakthroughs accelerate the next.,https://www.ycombinator.com/companies/rekursivai
 Trident,Agents that find real exploitable vulnerabilities in your company,https://www.ycombinator.com/companies/trident
 Atlas Discovery,Predicting human response to drugs in clinical trials,https://www.ycombinator.com/companies/atlas-discovery
+Mentlio,Engineering Intelligence and Token Optimization for the AI-Coding Era,https://www.ycombinator.com/companies/mentlio
 Sidekick,AI agent that handles frontline operations over text,https://www.ycombinator.com/companies/textsidekick
 Palette,An AI-Native Media Platform,https://www.ycombinator.com/companies/palette-2
 Osmaura,AI growth engine for law firms.,https://www.ycombinator.com/companies/osmaura
@@ -196,11 +204,13 @@ Illume Labs,24/7 Personal Health & Longevity Companion,https://www.ycombinator.c
 Litmus,Run an async work trial on every engineer you interview.,https://www.ycombinator.com/companies/litmus-hiring
 OpenVector,AI that turns any camera to an autonomous worker with real-time vision,https://www.ycombinator.com/companies/openvector
 "Applied Electrodynamics, Inc.",A new kind of camera that can see through walls.,https://www.ycombinator.com/companies/applied-electrodynamics-inc
+Dipole Labs,AI-controlled optical switching for AI clusters,https://www.ycombinator.com/companies/dipole-labs
 Poth Labs,Helping companies understand why users behave the way they do,https://www.ycombinator.com/companies/poth-labs
 Cova,AI-Native Home Care Agency,https://www.ycombinator.com/companies/cova
 Control Seat,Control and Monitoring of Industrial Operations,https://www.ycombinator.com/companies/control-seat
 Tsenta,We match you with jobs and apply automatically,https://www.ycombinator.com/companies/tsenta
 Atlia,We are the AI-native property management company,https://www.ycombinator.com/companies/atlia
+Meteoric,Drones that clear clouds over solar farms,https://www.ycombinator.com/companies/meteoric
 Ekpa,Building Autonomous Research Agents for Trading,https://www.ycombinator.com/companies/ekpa
 Libra Robotics,Multi-robot collaboration for harsh environments on Earth.,https://www.ycombinator.com/companies/libra-robotics
 Datoric,Security-first training data,https://www.ycombinator.com/companies/datoric
