@@ -1,5 +1,6 @@
 company,tagline,url
 Rote,AI-native insurance department for auto body shops,https://www.ycombinator.com/companies/rote
+Redoubt Insurance,Commercial insurance agency for small businesses,https://www.ycombinator.com/companies/redoubt-insurance
 antimattr,voice-first hardware interface for human-agent interaction,https://www.ycombinator.com/companies/antimattr
 Covera,AI-native OS for insurance brokers,https://www.ycombinator.com/companies/covera
 Vorelios,AI that simulates physics 1000x faster,https://www.ycombinator.com/companies/vorelios
@@ -15,6 +16,7 @@ Sentient OS,On-device AI that knows your entire life and does your work overnigh
 herdr,building the open agent runtime,https://www.ycombinator.com/companies/herdr
 Lambda Robotics,Robotics for AI Infrastructure,https://www.ycombinator.com/companies/lambda-robotics
 Simantic,Firmware simulation for AI agents,https://www.ycombinator.com/companies/simantic
+Lightfield,AI that works for in-house legal teams,https://www.ycombinator.com/companies/lightfield
 RightNow,Enabling Model-Hardware Co-Design at Scale,https://www.ycombinator.com/companies/rightnow
 Collar,AI for General Partners,https://www.ycombinator.com/companies/collar
 Degla Inc,The fully autonomous intelligence layer in the sky.,https://www.ycombinator.com/companies/degla-inc
@@ -70,7 +72,7 @@ Shiraz AI,Robots that learn on the job,https://www.ycombinator.com/companies/shi
 Mireye,Infrastructure for Physical World AI Agents,https://www.ycombinator.com/companies/mireye
 Touchy,AI voice assistant that understands the world around you,https://www.ycombinator.com/companies/touchy
 Derya,Agentic Supply Chain Automations,https://www.ycombinator.com/companies/derya
-Pennant,The Corporate Governance OS for Public Markets,https://www.ycombinator.com/companies/pennant
+Pennant,The World Model for Corporate Governance,https://www.ycombinator.com/companies/pennant
 Decawork,The Agent Control Plane for IT teams,https://www.ycombinator.com/companies/decawork
 CarSignal,The Smart Operating System for Auto Shops.,https://www.ycombinator.com/companies/carsignal
 Axelrod,Boutique Hotels that run themselves,https://www.ycombinator.com/companies/axelrod
@@ -154,7 +156,7 @@ Zaplar,Agentic Hotel Operating System,https://www.ycombinator.com/companies/zapl
 Prodigy Research,Training the world's best foundation model for quantitative finance.,https://www.ycombinator.com/companies/prodigy-research
 Touchmark,Market for future inference capacity,https://www.ycombinator.com/companies/touchmark
 Exosat,Building a sovereign Starlink,https://www.ycombinator.com/companies/exosat
-Codag,Log compression for agents.,https://www.ycombinator.com/companies/codag
+Codag,Tool call compression for agents.,https://www.ycombinator.com/companies/codag
 Context.dev,We give AI agents realtime web context.,https://www.ycombinator.com/companies/contextdev
 Glen,Institutional knowledge for every agent in your company.,https://www.ycombinator.com/companies/glen
 Stoa,The market behind AI hardware.,https://www.ycombinator.com/companies/stoa
@@ -192,10 +194,10 @@ Maingen,Simulating Agents Running Industrial Companies,https://www.ycombinator.c
 Enact,The post-training layer for robotics.,https://www.ycombinator.com/companies/enact
 Rex,AI-native BPO for enterprise order-to-cash,https://www.ycombinator.com/companies/rex-inc
 Zomma,Computer Use Agents for back offices in finance,https://www.ycombinator.com/companies/zomma
-Nebula Security,Building Mythos for everyone,https://www.ycombinator.com/companies/nebula-security
+Nebula Security,Autonomous AI defense system for cyber attack,https://www.ycombinator.com/companies/nebula-security
 Kara,Making Diamond Engineerable,https://www.ycombinator.com/companies/kara
 Palisade,AI sales agents that run your marketplace,https://www.ycombinator.com/companies/palisade
-Trope,The AI-native ERP system integrator,https://www.ycombinator.com/companies/trope
+Trope,AI FDE that deploys custom AI agents into ERPs,https://www.ycombinator.com/companies/trope
 Parasma,Training human brain cells for AI compute,https://www.ycombinator.com/companies/parasma
 Belvedir,The easiest way to make private AI models.,https://www.ycombinator.com/companies/belvedir
 Shielded,Decision intelligence for the world’s largest supply chains,https://www.ycombinator.com/companies/shielded
@@ -218,7 +220,7 @@ Rindler,The translation layer between AI agents and the web,https://www.ycombina
 Proprio Robotics,Building autonomous data centers,https://www.ycombinator.com/companies/proprio-robotics
 Amorphic Labs,OpenRouter for Agent Capabilities,https://www.ycombinator.com/companies/amorphic-labs
 rekursiv.ai,Scale AI scientists whose own breakthroughs accelerate the next.,https://www.ycombinator.com/companies/rekursivai
-Trident,Agents that find real exploitable vulnerabilities in your company,https://www.ycombinator.com/companies/trident
+Trident,secure everything that ships,https://www.ycombinator.com/companies/trident
 Atlas Discovery,Predicting human response to drugs in clinical trials,https://www.ycombinator.com/companies/atlas-discovery
 Mentlio,Engineering Intelligence and Token Optimization for the AI-Coding Era,https://www.ycombinator.com/companies/mentlio
 Sidekick,AI agent that handles frontline operations over text,https://www.ycombinator.com/companies/textsidekick
@@ -226,7 +228,7 @@ WonderTx,Extrapolative AI to unlock First-in-Class drugs,https://www.ycombinator
 Marker,Platform and FDEs for rebuilding businesses agent-first,https://www.ycombinator.com/companies/marker
 Palette,An AI-Native Media Platform,https://www.ycombinator.com/companies/palette-2
 Osmaura,AI growth engine for law firms.,https://www.ycombinator.com/companies/osmaura
-Instance,Automated evals for robot policies,https://www.ycombinator.com/companies/instance
+Most Robotic,Research lab for physical AI,https://www.ycombinator.com/companies/most-robotic
 Illume Labs,24/7 Personal Health & Longevity Companion,https://www.ycombinator.com/companies/illume-labs
 Litmus,Evals for humans,https://www.ycombinator.com/companies/litmus-hiring
 OpenVector,AI that turns any camera to an autonomous worker with real-time vision,https://www.ycombinator.com/companies/openvector
