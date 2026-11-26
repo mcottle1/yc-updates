@@ -18,6 +18,7 @@ Plyxl,The workspace that does the work,https://www.ycombinator.com/companies/ply
 Lucebox,Self-improving inference workstation,https://www.ycombinator.com/companies/lucebox
 Care GP,AI agents to run primary healthcare operations,https://www.ycombinator.com/companies/care-gp
 Operon,Agentic data layer for manufacturing & process industries.,https://www.ycombinator.com/companies/operon
+Definite,Connect operational data with finance to see what drives the numbers.,https://www.ycombinator.com/companies/definite
 LinkLane,"AI-powered freight brokerage. Quote, book, and track loads in seconds.",https://www.ycombinator.com/companies/linklane
 Rote,AI-native insurance department for auto body shops,https://www.ycombinator.com/companies/rote
 GatherHQ,"Applied AI for Enterprise GTM (3x founders, 10x growth, backed by ANT)",https://www.ycombinator.com/companies/gatherhq
@@ -129,7 +130,7 @@ Avout,Financing for robots and the physical AI buildout,https://www.ycombinator.
 Resin Technologies,Resin is an AI-enabled electronics firm,https://www.ycombinator.com/companies/resin-technologies
 Verno,"AI that executes engineering for chip fabs, energy, and power plants",https://www.ycombinator.com/companies/verno
 Halmos Labs,One API to any physical experiment,https://www.ycombinator.com/companies/halmos-labs
-Dreamscale Labs,Cloud inference and training infrastructure for robotics.,https://www.ycombinator.com/companies/dreamscale-labs
+Dreamscale Labs,Cloud inference for robotics,https://www.ycombinator.com/companies/dreamscale-labs
 Vorelios,AI that can engineer anything,https://www.ycombinator.com/companies/vorelios
 Rystic,Test agents and code changes in high-fidelity simulated environments,https://www.ycombinator.com/companies/rystic
 Obia,AI-native commercial real estate brokerage,https://www.ycombinator.com/companies/obia
@@ -179,11 +180,11 @@ OpenLake Technologies,OpenLake lets companies deploy models that improve in real
 Munito AI,"Open-model AI cloud for Europe, private by default.",https://www.ycombinator.com/companies/munito-ai
 Lantern AI,Agentic Recruiting Platform for Enterprise,https://www.ycombinator.com/companies/lantern-ai
 Nitroduck,"Nitroduck designs new colors, flavors and disease resistance into…",https://www.ycombinator.com/companies/nitroduck
-Talos,Predictive maintenance for power infrastructure.,https://www.ycombinator.com/companies/talos-us
-Rhem Labs,,https://www.ycombinator.com/companies/rhem-labs
+Talos,Predictive maintenance for critical grid infrastructure.,https://www.ycombinator.com/companies/talos-us
+Rhem Labs,Robots that care for humans,https://www.ycombinator.com/companies/rhem-labs
 Armorer Labs,Continuous security verification for AI in regulated industries,https://www.ycombinator.com/companies/armorer-labs
 Altair Health,Stripe for medical billing,https://www.ycombinator.com/companies/altair-health
-Stacktrace,Give agents autonomy without losing control,https://www.ycombinator.com/companies/stacktrace
+Stacktrace,Control layer for AI agents,https://www.ycombinator.com/companies/stacktrace
 Taan.ai,the most precise & controllable foundation music models,https://www.ycombinator.com/companies/taanai
 Forward,AI-native brokerage for private credit.,https://www.ycombinator.com/companies/useforward
 Aviern,Unmanned cargo airplanes,https://www.ycombinator.com/companies/aviern
@@ -191,7 +192,7 @@ Biomes,Deploying AI,https://www.ycombinator.com/companies/biomes
 Ample Computer,The one-stop cloud for agents to ship complex web apps,https://www.ycombinator.com/companies/ample-computer
 Central Blue,The power grid for space: we build power-beaming satellites.,https://www.ycombinator.com/companies/central-blue
 Capveon,"AI to find, understand, and win government work.",https://www.ycombinator.com/companies/capveon
-Inflection Space Systems,Hyperscaling space manufacturing,https://www.ycombinator.com/companies/inflection-space-systems
+Inflection Space Systems,Mass Manufacturing Satellites,https://www.ycombinator.com/companies/inflection-space-systems
 Applied Kinetics,AI-native manufacturing for data center and energy projects,https://www.ycombinator.com/companies/applied-kinetics
 Boat,Most powerful & affordable cloud VMs for agents,https://www.ycombinator.com/companies/boat
 Orgo,Computers for Agents,https://www.ycombinator.com/companies/orgo
@@ -233,8 +234,7 @@ Anywhere,"Your places, plans, friends and memories, all on one living map",https
 Liquid Energy,Self contained solar-powered AI inference modules: the NanoDC,https://www.ycombinator.com/companies/liquid-energy
 Risklytics,Insurance for Frontier Tech,https://www.ycombinator.com/companies/risklytics
 Gradon,"Legora for AEC (Architecture, Engineering, & Construction) firms",https://www.ycombinator.com/companies/gradon
-Audora,Audora is the next version of Audible - a place where stories are…,https://www.ycombinator.com/companies/audora
-Definite,Connect operational data with finance to see what drives the numbers.,https://www.ycombinator.com/companies/definite
+Audora,"Audora is Audible 2.0, where stories are immersive & fun to listen to",https://www.ycombinator.com/companies/audora
 Alkera AI,AI platform for enterprise data teams,https://www.ycombinator.com/companies/alkera-ai
 Confetti,Build hardware projects using plain-English prompts,https://www.ycombinator.com/companies/confetti
 Evident Machines,Real-world benchmarks and RL environments for electrical engineering,https://www.ycombinator.com/companies/evident-machines
